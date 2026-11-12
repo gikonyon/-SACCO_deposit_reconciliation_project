@@ -1,0 +1,2001 @@
+MemberNo,FullName,Branch
+M0001,Zawadi Kiprop,Nairobi CBD
+M0002,Adhiambo Cheruiyot,Kisumu
+M0003,Kemboi Wanjiru,Thika
+M0004,Mwende Otieno,Nakuru
+M0005,Mutua Odhiambo,Nairobi CBD
+M0006,Mwangi Gitau,Nakuru
+M0007,Wekesa Kariuki,Nyeri
+M0008,Fatuma Maweu,Mombasa
+M0009,Kimani Anyango,Kisumu
+M0010,Wanjiku Nasimiyu,Machakos
+M0011,Fatuma Kimutai,Mombasa
+M0012,Wambui Omondi,Kitale
+M0013,Jeptoo Wanjiru,Nairobi CBD
+M0014,Kamau Mutuku,Kisii
+M0015,Nekesa Wekesa,Machakos
+M0016,Imani Okoth,Nakuru
+M0017,Omondi Otieno,Nakuru
+M0018,Zawadi Simiyu,Kakamega
+M0019,Muthoni Waweru,Nairobi CBD
+M0020,Njoroge Musyoka,Thika
+M0021,Wafula Kilonzo,Kitale
+M0022,Mwangi Wanjiru,Mombasa
+M0023,Wangari Kiplagat,Kisii
+M0024,Odhiambo Sang,Mombasa
+M0025,Amina Nyaga,Nyeri
+M0026,Hassan Nduta,Nairobi CBD
+M0027,Zawadi Mutiso,Nakuru
+M0028,Wairimu Mutiso,Eldoret
+M0029,Adhiambo Kiplagat,Thika
+M0030,Mwangi Barasa,Mombasa
+M0031,Wafula Mutai,Nairobi CBD
+M0032,Mutua Githinji,Mombasa
+M0033,Njoroge Omondi,Meru
+M0034,Auma Abdi,Mombasa
+M0035,Juma Bett,Mombasa
+M0036,Juma Okoth,Nairobi CBD
+M0037,Kipchoge Cheruiyot,Nyeri
+M0038,Mwende Wekesa,Nyeri
+M0039,Nafula Anyango,Mombasa
+M0040,Mwangi Njuguna,Eldoret
+M0041,Akinyi Nasimiyu,Nairobi CBD
+M0042,Achieng Ochieng,Thika
+M0043,Hassan Kimutai,Nakuru
+M0044,Omondi Macharia,Nakuru
+M0045,Wangari Awuor,Kisumu
+M0046,Wekesa Kamau,Thika
+M0047,Achieng Barasa,Kakamega
+M0048,Cheruiyot Nyaga,Machakos
+M0049,Jeptoo Kiprop,Kisumu
+M0050,Odhiambo Okoth,Nairobi CBD
+M0051,Imani Ali,Kisumu
+M0052,Kibet Nasimiyu,Nairobi CBD
+M0053,Kamau Kiplagat,Kisumu
+M0054,Zawadi Gitau,Nakuru
+M0055,Wambui Sang,Machakos
+M0056,Mwende Mutai,Meru
+M0057,Wanjiku Muriuki,Mombasa
+M0058,Otieno Kiprop,Meru
+M0059,Naliaka Cheruiyot,Nairobi CBD
+M0060,Auma Otieno,Nairobi CBD
+M0061,Moraa Mwangi,Kitale
+M0062,Kipchoge Njuguna,Thika
+M0063,Wekesa Mutiso,Kisumu
+M0064,Nekesa Kimutai,Kitale
+M0065,Mwende Nasimiyu,Nyeri
+M0066,Kiprono Abdi,Mombasa
+M0067,Amina Nduta,Mombasa
+M0068,Njeri Ndung'u,Nairobi CBD
+M0069,Mwangi Mwangi,Mombasa
+M0070,Kariuki Tanui,Kisumu
+M0071,Mwangi Kamau,Nairobi CBD
+M0072,Zawadi Korir,Kisumu
+M0073,Mutua Owino,Nairobi CBD
+M0074,Wairimu Nyaga,Thika
+M0075,Atieno Maweu,Nairobi CBD
+M0076,Auma Waweru,Eldoret
+M0077,Onyango Mwikali,Nairobi CBD
+M0078,Kamau Ndambuki,Eldoret
+M0079,Nafula Mwikali,Eldoret
+M0080,Imani Korir,Thika
+M0081,Juma Wanjiru,Nairobi CBD
+M0082,Imani Owino,Machakos
+M0083,Kamau Cheruiyot,Nairobi CBD
+M0084,Mwende Ndung'u,Nairobi CBD
+M0085,Nyambura Nyaga,Eldoret
+M0086,Njoroge Ndung'u,Machakos
+M0087,Wekesa Wanjiru,Nairobi CBD
+M0088,Mwende Kamau,Kitale
+M0089,Cheruiyot Cheruiyot,Nairobi CBD
+M0090,Moraa Kioko,Kisumu
+M0091,Chebet Korir,Nairobi CBD
+M0092,Wanjiku Macharia,Kisumu
+M0093,Wangari Kilonzo,Eldoret
+M0094,Imani Tanui,Thika
+M0095,Moraa Ochieng,Nairobi CBD
+M0096,Atieno Korir,Nakuru
+M0097,Mwende Korir,Nyeri
+M0098,Chepkoech Korir,Nakuru
+M0099,Kibet Awuor,Nairobi CBD
+M0100,Kibet Otieno,Kisii
+M0101,Njoroge Muriuki,Nairobi CBD
+M0102,Wairimu Ouma,Nairobi CBD
+M0103,Auma Cheruiyot,Nakuru
+M0104,Mutua Simiyu,Nairobi CBD
+M0105,Amina Anyango,Nakuru
+M0106,Barasa Wekesa,Kisumu
+M0107,Baraka Githinji,Kisumu
+M0108,Chebet Njuguna,Thika
+M0109,Naliaka Okoth,Mombasa
+M0110,Cheruiyot Mwangi,Nairobi CBD
+M0111,Ochieng Waweru,Kitale
+M0112,Njoroge Maweu,Kisumu
+M0113,Kiptoo Njuguna,Meru
+M0114,Njoroge Cheruiyot,Mombasa
+M0115,Odhiambo Ndung'u,Kisii
+M0116,Baraka Langat,Thika
+M0117,Juma Awuor,Nairobi CBD
+M0118,Wekesa Langat,Meru
+M0119,Kamau Njuguna,Kisumu
+M0120,Kamau Kerubo,Nakuru
+M0121,Adhiambo Kilonzo,Nakuru
+M0122,Baraka Owino,Kisumu
+M0123,Zawadi Wekesa,Eldoret
+M0124,Kiptoo Korir,Nairobi CBD
+M0125,Nafula Nyaga,Nairobi CBD
+M0126,Jeptoo Mutai,Nairobi CBD
+M0127,Kiptoo Mutiso,Nyeri
+M0128,Wekesa Abdi,Eldoret
+M0129,Wanjiku Kiprop,Nairobi CBD
+M0130,Fatuma Ochieng,Nakuru
+M0131,Muthoni Anyango,Nakuru
+M0132,Nafula Njuguna,Nairobi CBD
+M0133,Muthoni Musyoka,Kakamega
+M0134,Atieno Barasa,Kisumu
+M0135,Wafula Tanui,Kakamega
+M0136,Gathogo Simiyu,Nyeri
+M0137,Nyambura Mwikali,Nairobi CBD
+M0138,Kemboi Owino,Machakos
+M0139,Gathogo Ndambuki,Kakamega
+M0140,Odhiambo Mohamed,Nairobi CBD
+M0141,Mutua Kioko,Kisumu
+M0142,Wangari Mutuku,Mombasa
+M0143,Mwangi Mbugua,Nairobi CBD
+M0144,Kiprono Ouma,Mombasa
+M0145,Njoroge Mutai,Kisumu
+M0146,Juma Gitau,Mombasa
+M0147,Mwende Owino,Meru
+M0148,Achieng Wekesa,Nairobi CBD
+M0149,Kiptoo Musyoka,Nairobi CBD
+M0150,Nafula Mutuku,Nyeri
+M0151,Barasa Kimutai,Nakuru
+M0152,Kibet Kiprop,Mombasa
+M0153,Auma Kariuki,Kisumu
+M0154,Baraka Kimutai,Nairobi CBD
+M0155,Mwende Barasa,Nyeri
+M0156,Kemboi Kerubo,Thika
+M0157,Muthoni Kimutai,Nairobi CBD
+M0158,Amina Owino,Thika
+M0159,Amina Kiprop,Nyeri
+M0160,Naliaka Gitau,Mombasa
+M0161,Gathogo Githinji,Mombasa
+M0162,Maina Tanui,Nairobi CBD
+M0163,Omondi Barasa,Nyeri
+M0164,Nyambura Simiyu,Nakuru
+M0165,Chebet Tanui,Kisii
+M0166,Naliaka Kilonzo,Kisumu
+M0167,Kariuki Muriuki,Thika
+M0168,Wangari Ndung'u,Eldoret
+M0169,Atieno Gitau,Eldoret
+M0170,Kemboi Mutiso,Thika
+M0171,Maina Gitau,Thika
+M0172,Ochieng Owino,Nairobi CBD
+M0173,Hassan Langat,Kisumu
+M0174,Kiprono Ochieng,Nairobi CBD
+M0175,Wairimu Kioko,Thika
+M0176,Wafula Mwangi,Eldoret
+M0177,Zawadi Waweru,Nairobi CBD
+M0178,Fatuma Macharia,Eldoret
+M0179,Wairimu Ochieng,Thika
+M0180,Wafula Wanjiru,Machakos
+M0181,Mwangi Rotich,Machakos
+M0182,Fatuma Awuor,Eldoret
+M0183,Wekesa Cheruiyot,Meru
+M0184,Achieng Okoth,Nairobi CBD
+M0185,Wangari Ndambuki,Nakuru
+M0186,Wekesa Muriuki,Mombasa
+M0187,Cheruiyot Ndung'u,Thika
+M0188,Imani Gitau,Eldoret
+M0189,Wekesa Ndung'u,Kakamega
+M0190,Kemboi Kioko,Eldoret
+M0191,Zawadi Nyaga,Machakos
+M0192,Njeri Bett,Thika
+M0193,Adhiambo Ndung'u,Nairobi CBD
+M0194,Maina Cheruiyot,Kisumu
+M0195,Barasa Maweu,Nairobi CBD
+M0196,Wambui Mbugua,Mombasa
+M0197,Wambui Abdi,Kisumu
+M0198,Gathogo Mwikali,Mombasa
+M0199,Wangari Mwikali,Nairobi CBD
+M0200,Gathogo Macharia,Meru
+M0201,Kariuki Mohamed,Nairobi CBD
+M0202,Cheruiyot Waweru,Mombasa
+M0203,Wanjiku Mutuku,Kisumu
+M0204,Omondi Mwikali,Nakuru
+M0205,Kemboi Maweu,Machakos
+M0206,Mwangi Bett,Kisumu
+M0207,Nafula Bett,Nairobi CBD
+M0208,Jeptoo Ndambuki,Thika
+M0209,Chebet Ali,Nairobi CBD
+M0210,Wangari Njuguna,Kitale
+M0211,Mwende Odhiambo,Meru
+M0212,Kariuki Waweru,Thika
+M0213,Akinyi Nduta,Eldoret
+M0214,Wangari Rotich,Nairobi CBD
+M0215,Omondi Githinji,Kisumu
+M0216,Barasa Owino,Machakos
+M0217,Omondi Nyaga,Machakos
+M0218,Gathogo Wekesa,Kisii
+M0219,Onyango Odhiambo,Nyeri
+M0220,Chepkoech Mutuku,Kisumu
+M0221,Juma Musyoka,Machakos
+M0222,Wairimu Kariuki,Kisii
+M0223,Ochieng Ochieng,Kisumu
+M0224,Onyango Ndambuki,Nairobi CBD
+M0225,Atieno Okoth,Nyeri
+M0226,Wafula Sang,Nairobi CBD
+M0227,Nekesa Kerubo,Nyeri
+M0228,Wafula Mutiso,Kitale
+M0229,Kamau Anyango,Nairobi CBD
+M0230,Naliaka Waweru,Thika
+M0231,Omondi Ouma,Meru
+M0232,Kiprono Mwangi,Nakuru
+M0233,Zawadi Cheruiyot,Nairobi CBD
+M0234,Wafula Langat,Kisii
+M0235,Nekesa Kiprop,Machakos
+M0236,Auma Musyoka,Mombasa
+M0237,Nafula Ndambuki,Mombasa
+M0238,Kibet Nduta,Mombasa
+M0239,Gathogo Bett,Nairobi CBD
+M0240,Muthoni Kiplagat,Kakamega
+M0241,Wangari Abdi,Nairobi CBD
+M0242,Nyambura Ali,Nakuru
+M0243,Juma Nyaga,Thika
+M0244,Onyango Okoth,Eldoret
+M0245,Imani Anyango,Kisumu
+M0246,Wairimu Otieno,Kisumu
+M0247,Kimani Cheruiyot,Machakos
+M0248,Auma Simiyu,Thika
+M0249,Jeptoo Odhiambo,Eldoret
+M0250,Barasa Rotich,Eldoret
+M0251,Karanja Wekesa,Mombasa
+M0252,Nekesa Mohamed,Kakamega
+M0253,Njeri Kariuki,Nairobi CBD
+M0254,Imani Mwikali,Eldoret
+M0255,Fatuma Kioko,Thika
+M0256,Moraa Ndung'u,Machakos
+M0257,Akinyi Kilonzo,Kisumu
+M0258,Fatuma Cheruiyot,Mombasa
+M0259,Kariuki Sang,Eldoret
+M0260,Njeri Mutuku,Eldoret
+M0261,Kemboi Tanui,Mombasa
+M0262,Fatuma Okoth,Kisumu
+M0263,Kiptoo Mbugua,Nairobi CBD
+M0264,Kiprono Githinji,Nairobi CBD
+M0265,Fatuma Rotich,Nairobi CBD
+M0266,Adhiambo Ali,Nakuru
+M0267,Cheruiyot Awuor,Nakuru
+M0268,Kamau Kariuki,Kisumu
+M0269,Muthoni Rotich,Mombasa
+M0270,Baraka Maweu,Nairobi CBD
+M0271,Mutua Korir,Nakuru
+M0272,Fatuma Njuguna,Thika
+M0273,Cheruiyot Bett,Nairobi CBD
+M0274,Wanjiku Waweru,Kisumu
+M0275,Onyango Ndung'u,Mombasa
+M0276,Chepkoech Wekesa,Meru
+M0277,Onyango Kiprop,Kisii
+M0278,Chebet Bett,Nairobi CBD
+M0279,Zawadi Barasa,Nairobi CBD
+M0280,Wambui Waweru,Meru
+M0281,Akinyi Cheruiyot,Nairobi CBD
+M0282,Cheruiyot Mwikali,Nakuru
+M0283,Ochieng Mbugua,Machakos
+M0284,Omondi Ndung'u,Meru
+M0285,Naliaka Anyango,Kitale
+M0286,Ochieng Korir,Nakuru
+M0287,Cheruiyot Omondi,Thika
+M0288,Kiptoo Ndambuki,Nairobi CBD
+M0289,Wairimu Rotich,Nakuru
+M0290,Odhiambo Kamau,Mombasa
+M0291,Fatuma Muriuki,Eldoret
+M0292,Mutua Mbugua,Kisumu
+M0293,Maina Mohamed,Kisii
+M0294,Njoroge Barasa,Kisumu
+M0295,Kiptoo Kiplagat,Nakuru
+M0296,Kiprono Kimutai,Nairobi CBD
+M0297,Mwangi Nduta,Nairobi CBD
+M0298,Adhiambo Ochieng,Nairobi CBD
+M0299,Odhiambo Langat,Nakuru
+M0300,Auma Kilonzo,Eldoret
+M0301,Wangari Mohamed,Mombasa
+M0302,Chebet Nyaga,Eldoret
+M0303,Akinyi Muriuki,Nairobi CBD
+M0304,Nafula Kerubo,Mombasa
+M0305,Kiptoo Odhiambo,Nairobi CBD
+M0306,Hassan Waweru,Nakuru
+M0307,Otieno Nasimiyu,Thika
+M0308,Adhiambo Waweru,Nairobi CBD
+M0309,Cheruiyot Rotich,Eldoret
+M0310,Juma Ndung'u,Meru
+M0311,Nyambura Anyango,Eldoret
+M0312,Moraa Otieno,Eldoret
+M0313,Gathogo Owino,Mombasa
+M0314,Kamau Mutiso,Mombasa
+M0315,Fatuma Bett,Kisumu
+M0316,Chebet Nasimiyu,Nakuru
+M0317,Wangari Otieno,Mombasa
+M0318,Barasa Kiprop,Kitale
+M0319,Chebet Gitau,Kisii
+M0320,Wanjiku Ndambuki,Kakamega
+M0321,Chepkoech Kariuki,Nakuru
+M0322,Ochieng Nasimiyu,Eldoret
+M0323,Kimani Nasimiyu,Nairobi CBD
+M0324,Adhiambo Tanui,Nairobi CBD
+M0325,Maina Ndung'u,Kakamega
+M0326,Moraa Kiprop,Nairobi CBD
+M0327,Zawadi Muriuki,Machakos
+M0328,Baraka Mutiso,Mombasa
+M0329,Wanjiku Tanui,Mombasa
+M0330,Mwangi Kiprop,Eldoret
+M0331,Achieng Nduta,Kisii
+M0332,Moraa Abdi,Kisumu
+M0333,Baraka Nyaga,Mombasa
+M0334,Onyango Kioko,Kisumu
+M0335,Wekesa Ochieng,Mombasa
+M0336,Nekesa Gitau,Nyeri
+M0337,Kipchoge Mwangi,Kisumu
+M0338,Kibet Nyaga,Kisii
+M0339,Maina Ali,Kisumu
+M0340,Kariuki Anyango,Kitale
+M0341,Kimani Maweu,Eldoret
+M0342,Jeptoo Tanui,Machakos
+M0343,Omondi Okoth,Meru
+M0344,Kiprono Mohamed,Kisumu
+M0345,Omondi Mbugua,Kisii
+M0346,Gathogo Musyoka,Mombasa
+M0347,Onyango Abdi,Meru
+M0348,Wambui Bett,Kitale
+M0349,Kipchoge Gitau,Kitale
+M0350,Kimani Wanjiru,Nakuru
+M0351,Wangari Kamau,Nyeri
+M0352,Gathogo Nduta,Kitale
+M0353,Njoroge Kioko,Machakos
+M0354,Kiptoo Owino,Thika
+M0355,Chebet Nduta,Nairobi CBD
+M0356,Jeptoo Barasa,Kisii
+M0357,Zawadi Abdi,Kakamega
+M0358,Moraa Maweu,Nairobi CBD
+M0359,Maina Mbugua,Nyeri
+M0360,Nafula Wanjiru,Machakos
+M0361,Baraka Wanjiru,Eldoret
+M0362,Fatuma Langat,Meru
+M0363,Chepkoech Kilonzo,Mombasa
+M0364,Nafula Ochieng,Kisumu
+M0365,Gathogo Waweru,Thika
+M0366,Nyambura Mutiso,Nairobi CBD
+M0367,Ochieng Macharia,Thika
+M0368,Wairimu Bett,Meru
+M0369,Kiptoo Okoth,Kisumu
+M0370,Wanjiku Okoth,Meru
+M0371,Hassan Maweu,Nairobi CBD
+M0372,Kimani Mutuku,Kitale
+M0373,Naliaka Kiplagat,Kitale
+M0374,Fatuma Wekesa,Eldoret
+M0375,Naliaka Kariuki,Kitale
+M0376,Onyango Wanjiru,Kisumu
+M0377,Auma Mutuku,Nakuru
+M0378,Fatuma Kilonzo,Nairobi CBD
+M0379,Amina Ouma,Kisumu
+M0380,Auma Barasa,Machakos
+M0381,Chepkoech Muriuki,Nyeri
+M0382,Maina Mutai,Machakos
+M0383,Nekesa Mutuku,Kisumu
+M0384,Kiprono Simiyu,Kisumu
+M0385,Cheruiyot Ali,Machakos
+M0386,Hassan Njuguna,Thika
+M0387,Zawadi Nduta,Nairobi CBD
+M0388,Kimani Musyoka,Nakuru
+M0389,Imani Njuguna,Nairobi CBD
+M0390,Maina Githinji,Nyeri
+M0391,Nyambura Kariuki,Nairobi CBD
+M0392,Mwende Sang,Nakuru
+M0393,Adhiambo Mutiso,Kisumu
+M0394,Onyango Kilonzo,Nyeri
+M0395,Wangari Mwangi,Nairobi CBD
+M0396,Imani Barasa,Kitale
+M0397,Wekesa Sang,Nairobi CBD
+M0398,Chebet Kamau,Kisumu
+M0399,Muthoni Barasa,Nyeri
+M0400,Kiptoo Anyango,Mombasa
+M0401,Zawadi Sang,Nairobi CBD
+M0402,Mwangi Kioko,Nairobi CBD
+M0403,Wekesa Githinji,Meru
+M0404,Njoroge Kiplagat,Kisii
+M0405,Juma Mwikali,Nairobi CBD
+M0406,Mutua Musyoka,Mombasa
+M0407,Mwende Njuguna,Mombasa
+M0408,Muthoni Ndambuki,Meru
+M0409,Gathogo Anyango,Nyeri
+M0410,Wambui Mwikali,Thika
+M0411,Moraa Simiyu,Mombasa
+M0412,Adhiambo Musyoka,Nyeri
+M0413,Atieno Ndung'u,Eldoret
+M0414,Wairimu Sang,Nairobi CBD
+M0415,Hassan Sang,Nakuru
+M0416,Juma Mutuku,Nairobi CBD
+M0417,Adhiambo Kariuki,Kitale
+M0418,Amina Omondi,Thika
+M0419,Nekesa Odhiambo,Nairobi CBD
+M0420,Jeptoo Cheruiyot,Kitale
+M0421,Auma Omondi,Nairobi CBD
+M0422,Cheruiyot Tanui,Kisumu
+M0423,Atieno Mbugua,Mombasa
+M0424,Wambui Muriuki,Nairobi CBD
+M0425,Wambui Njuguna,Nakuru
+M0426,Nyambura Kiprop,Thika
+M0427,Otieno Njuguna,Nairobi CBD
+M0428,Wairimu Anyango,Mombasa
+M0429,Nyambura Wekesa,Nairobi CBD
+M0430,Kemboi Mwikali,Nakuru
+M0431,Kemboi Mwangi,Eldoret
+M0432,Kibet Anyango,Nairobi CBD
+M0433,Kibet Mbugua,Meru
+M0434,Mutua Ali,Machakos
+M0435,Amina Awuor,Mombasa
+M0436,Juma Odhiambo,Nairobi CBD
+M0437,Onyango Ouma,Eldoret
+M0438,Kamau Bett,Nyeri
+M0439,Kimani Mwangi,Kakamega
+M0440,Barasa Muriuki,Nairobi CBD
+M0441,Kipchoge Nyaga,Thika
+M0442,Omondi Muriuki,Nakuru
+M0443,Wangari Gitau,Nakuru
+M0444,Kamau Mohamed,Nairobi CBD
+M0445,Juma Nduta,Kakamega
+M0446,Wekesa Ali,Kakamega
+M0447,Nafula Ndung'u,Kakamega
+M0448,Wangari Ouma,Mombasa
+M0449,Kamau Githinji,Eldoret
+M0450,Amina Wekesa,Mombasa
+M0451,Wambui Barasa,Meru
+M0452,Njoroge Otieno,Kisii
+M0453,Akinyi Kimutai,Nairobi CBD
+M0454,Kemboi Sang,Kisii
+M0455,Wekesa Korir,Nakuru
+M0456,Wekesa Tanui,Mombasa
+M0457,Achieng Mwikali,Mombasa
+M0458,Amina Nasimiyu,Eldoret
+M0459,Maina Muriuki,Mombasa
+M0460,Kamau Waweru,Eldoret
+M0461,Wambui Ndambuki,Eldoret
+M0462,Achieng Nasimiyu,Kisumu
+M0463,Mwangi Kimutai,Kisii
+M0464,Wafula Simiyu,Thika
+M0465,Juma Tanui,Nairobi CBD
+M0466,Amina Mohamed,Kisumu
+M0467,Fatuma Nasimiyu,Mombasa
+M0468,Jeptoo Mutuku,Nairobi CBD
+M0469,Njoroge Ochieng,Nyeri
+M0470,Otieno Otieno,Nyeri
+M0471,Atieno Macharia,Mombasa
+M0472,Jeptoo Mutiso,Mombasa
+M0473,Imani Githinji,Machakos
+M0474,Auma Muriuki,Nairobi CBD
+M0475,Chepkoech Ochieng,Nairobi CBD
+M0476,Hassan Otieno,Kisumu
+M0477,Amina Kimutai,Eldoret
+M0478,Kimani Mwikali,Kisumu
+M0479,Cheruiyot Gitau,Nairobi CBD
+M0480,Nafula Kiprop,Kisumu
+M0481,Hassan Anyango,Eldoret
+M0482,Amina Langat,Nairobi CBD
+M0483,Chebet Muriuki,Nairobi CBD
+M0484,Atieno Langat,Meru
+M0485,Wafula Njuguna,Machakos
+M0486,Achieng Kamau,Eldoret
+M0487,Nafula Rotich,Nairobi CBD
+M0488,Mwende Abdi,Kisumu
+M0489,Wekesa Ndambuki,Machakos
+M0490,Njoroge Ouma,Kakamega
+M0491,Mutua Kimutai,Nairobi CBD
+M0492,Njoroge Githinji,Nakuru
+M0493,Auma Ouma,Nyeri
+M0494,Gathogo Kilonzo,Nairobi CBD
+M0495,Otieno Githinji,Nairobi CBD
+M0496,Ochieng Okoth,Kisii
+M0497,Muthoni Otieno,Eldoret
+M0498,Chebet Awuor,Nairobi CBD
+M0499,Naliaka Kerubo,Mombasa
+M0500,Odhiambo Mwangi,Nakuru
+M0501,Achieng Awuor,Eldoret
+M0502,Wafula Mutuku,Mombasa
+M0503,Juma Ochieng,Kisumu
+M0504,Wambui Wekesa,Nairobi CBD
+M0505,Nekesa Ochieng,Machakos
+M0506,Juma Mwangi,Nairobi CBD
+M0507,Wafula Kiplagat,Eldoret
+M0508,Cheruiyot Anyango,Eldoret
+M0509,Auma Nduta,Thika
+M0510,Ochieng Githinji,Kakamega
+M0511,Zawadi Githinji,Nairobi CBD
+M0512,Kimani Kiplagat,Mombasa
+M0513,Adhiambo Anyango,Nairobi CBD
+M0514,Kibet Mwangi,Mombasa
+M0515,Chepkoech Sang,Kisii
+M0516,Njoroge Nduta,Kakamega
+M0517,Akinyi Simiyu,Nakuru
+M0518,Kemboi Musyoka,Eldoret
+M0519,Nekesa Kioko,Eldoret
+M0520,Chepkoech Ndung'u,Nairobi CBD
+M0521,Jeptoo Abdi,Nairobi CBD
+M0522,Juma Rotich,Nairobi CBD
+M0523,Baraka Ndung'u,Kitale
+M0524,Njeri Awuor,Nakuru
+M0525,Muthoni Sang,Meru
+M0526,Wafula Owino,Thika
+M0527,Chepkoech Kiplagat,Thika
+M0528,Njoroge Owino,Nairobi CBD
+M0529,Hassan Macharia,Kisumu
+M0530,Imani Ndambuki,Kitale
+M0531,Jeptoo Otieno,Nakuru
+M0532,Wambui Mutuku,Mombasa
+M0533,Juma Mohamed,Thika
+M0534,Kipchoge Muriuki,Nyeri
+M0535,Akinyi Langat,Nakuru
+M0536,Juma Owino,Kisii
+M0537,Kemboi Barasa,Meru
+M0538,Kibet Sang,Nairobi CBD
+M0539,Naliaka Rotich,Kitale
+M0540,Moraa Kariuki,Kisumu
+M0541,Kipchoge Ochieng,Nairobi CBD
+M0542,Kamau Gitau,Machakos
+M0543,Kemboi Awuor,Nairobi CBD
+M0544,Ochieng Njuguna,Nakuru
+M0545,Wambui Mutiso,Nairobi CBD
+M0546,Fatuma Mutai,Thika
+M0547,Odhiambo Ali,Eldoret
+M0548,Gathogo Sang,Thika
+M0549,Wairimu Ndung'u,Thika
+M0550,Cheruiyot Kerubo,Machakos
+M0551,Mwangi Maweu,Kisumu
+M0552,Onyango Kariuki,Mombasa
+M0553,Auma Ndung'u,Eldoret
+M0554,Omondi Gitau,Nakuru
+M0555,Odhiambo Kariuki,Machakos
+M0556,Kipchoge Wekesa,Nairobi CBD
+M0557,Onyango Sang,Nakuru
+M0558,Kamau Abdi,Kisii
+M0559,Achieng Kilonzo,Nairobi CBD
+M0560,Odhiambo Nyaga,Eldoret
+M0561,Kibet Ochieng,Kisii
+M0562,Akinyi Mbugua,Kisii
+M0563,Karanja Odhiambo,Mombasa
+M0564,Muthoni Cheruiyot,Mombasa
+M0565,Akinyi Sang,Kisumu
+M0566,Barasa Wanjiru,Kisii
+M0567,Mutua Kilonzo,Meru
+M0568,Onyango Mohamed,Kisii
+M0569,Cheruiyot Abdi,Eldoret
+M0570,Ochieng Kamau,Meru
+M0571,Otieno Wekesa,Kisumu
+M0572,Wambui Tanui,Meru
+M0573,Nekesa Awuor,Eldoret
+M0574,Wairimu Langat,Nairobi CBD
+M0575,Wairimu Mwikali,Thika
+M0576,Njoroge Kiprop,Kisii
+M0577,Moraa Muriuki,Nakuru
+M0578,Baraka Ochieng,Kisumu
+M0579,Wanjiku Simiyu,Mombasa
+M0580,Auma Mwikali,Nairobi CBD
+M0581,Amina Otieno,Nakuru
+M0582,Muthoni Mwangi,Kitale
+M0583,Mwende Gitau,Machakos
+M0584,Kibet Tanui,Nairobi CBD
+M0585,Onyango Musyoka,Thika
+M0586,Muthoni Wekesa,Nyeri
+M0587,Karanja Mwangi,Mombasa
+M0588,Zawadi Wanjiru,Machakos
+M0589,Kemboi Nasimiyu,Mombasa
+M0590,Mutua Mutuku,Nakuru
+M0591,Wafula Barasa,Eldoret
+M0592,Zawadi Rotich,Kisii
+M0593,Njoroge Abdi,Machakos
+M0594,Wangari Musyoka,Kisumu
+M0595,Mutua Kariuki,Kakamega
+M0596,Barasa Langat,Nakuru
+M0597,Mwende Kioko,Kisumu
+M0598,Cheruiyot Nduta,Nairobi CBD
+M0599,Karanja Mutai,Nairobi CBD
+M0600,Adhiambo Kiprop,Machakos
+M0601,Nafula Ouma,Nyeri
+M0602,Omondi Owino,Kitale
+M0603,Moraa Mohamed,Eldoret
+M0604,Njeri Nyaga,Machakos
+M0605,Imani Kimutai,Nairobi CBD
+M0606,Nekesa Rotich,Nakuru
+M0607,Akinyi Githinji,Thika
+M0608,Naliaka Ndung'u,Nakuru
+M0609,Nafula Mutiso,Thika
+M0610,Karanja Ndung'u,Nairobi CBD
+M0611,Karanja Simiyu,Kitale
+M0612,Chepkoech Mwangi,Thika
+M0613,Chebet Sang,Nakuru
+M0614,Odhiambo Odhiambo,Nairobi CBD
+M0615,Nekesa Barasa,Machakos
+M0616,Mutua Njuguna,Nairobi CBD
+M0617,Wafula Nduta,Mombasa
+M0618,Omondi Waweru,Nairobi CBD
+M0619,Kimani Sang,Mombasa
+M0620,Auma Njuguna,Nakuru
+M0621,Chebet Githinji,Thika
+M0622,Wairimu Kiprop,Nairobi CBD
+M0623,Nyambura Bett,Nakuru
+M0624,Wekesa Kiprop,Kisumu
+M0625,Kiptoo Abdi,Eldoret
+M0626,Ochieng Kilonzo,Nyeri
+M0627,Achieng Njuguna,Kisii
+M0628,Kimani Rotich,Kakamega
+M0629,Kimani Otieno,Kisii
+M0630,Barasa Ndambuki,Mombasa
+M0631,Njoroge Tanui,Nakuru
+M0632,Naliaka Mutiso,Nyeri
+M0633,Fatuma Kiplagat,Nairobi CBD
+M0634,Muthoni Gitau,Kisumu
+M0635,Kiprono Njuguna,Kisumu
+M0636,Moraa Odhiambo,Mombasa
+M0637,Auma Sang,Eldoret
+M0638,Wekesa Njuguna,Thika
+M0639,Akinyi Mwangi,Mombasa
+M0640,Baraka Ali,Eldoret
+M0641,Gathogo Mutai,Mombasa
+M0642,Auma Mwangi,Nairobi CBD
+M0643,Barasa Nduta,Nairobi CBD
+M0644,Wangari Barasa,Nakuru
+M0645,Kipchoge Mutai,Nakuru
+M0646,Kariuki Rotich,Machakos
+M0647,Kipchoge Kimutai,Eldoret
+M0648,Chepkoech Kiprop,Nakuru
+M0649,Odhiambo Githinji,Meru
+M0650,Mwangi Mutuku,Meru
+M0651,Njeri Kilonzo,Kisii
+M0652,Kiptoo Kariuki,Thika
+M0653,Wekesa Nyaga,Nairobi CBD
+M0654,Naliaka Simiyu,Nakuru
+M0655,Odhiambo Anyango,Meru
+M0656,Amina Simiyu,Nyeri
+M0657,Nekesa Owino,Kisii
+M0658,Mutua Nduta,Machakos
+M0659,Kiptoo Nduta,Kisumu
+M0660,Ochieng Kiplagat,Nairobi CBD
+M0661,Zawadi Maweu,Kisumu
+M0662,Naliaka Kioko,Kisumu
+M0663,Hassan Ouma,Kisumu
+M0664,Njoroge Mohamed,Nairobi CBD
+M0665,Atieno Owino,Nakuru
+M0666,Barasa Abdi,Mombasa
+M0667,Karanja Ouma,Nairobi CBD
+M0668,Barasa Cheruiyot,Eldoret
+M0669,Kamau Korir,Kisumu
+M0670,Omondi Simiyu,Mombasa
+M0671,Auma Ali,Mombasa
+M0672,Cheruiyot Mutiso,Eldoret
+M0673,Kibet Okoth,Eldoret
+M0674,Naliaka Bett,Nairobi CBD
+M0675,Wangari Cheruiyot,Kisumu
+M0676,Karanja Korir,Nairobi CBD
+M0677,Juma Barasa,Eldoret
+M0678,Kamau Kimutai,Nairobi CBD
+M0679,Kiptoo Ali,Mombasa
+M0680,Mutua Ouma,Nairobi CBD
+M0681,Muthoni Tanui,Kisumu
+M0682,Ochieng Barasa,Thika
+M0683,Kipchoge Wanjiru,Mombasa
+M0684,Muthoni Nasimiyu,Nairobi CBD
+M0685,Onyango Awuor,Eldoret
+M0686,Kipchoge Githinji,Meru
+M0687,Barasa Mutiso,Mombasa
+M0688,Ochieng Kerubo,Kisii
+M0689,Kariuki Owino,Eldoret
+M0690,Kibet Maweu,Eldoret
+M0691,Auma Langat,Eldoret
+M0692,Otieno Sang,Mombasa
+M0693,Kariuki Langat,Machakos
+M0694,Imani Mohamed,Thika
+M0695,Wafula Anyango,Nakuru
+M0696,Kariuki Kioko,Nairobi CBD
+M0697,Zawadi Ali,Thika
+M0698,Omondi Ochieng,Kisii
+M0699,Wairimu Musyoka,Nakuru
+M0700,Fatuma Kiprop,Nairobi CBD
+M0701,Kimani Githinji,Mombasa
+M0702,Gathogo Mohamed,Kisumu
+M0703,Kibet Mutai,Thika
+M0704,Onyango Kerubo,Nyeri
+M0705,Baraka Njuguna,Nakuru
+M0706,Amina Kioko,Nakuru
+M0707,Wangari Maweu,Mombasa
+M0708,Karanja Barasa,Machakos
+M0709,Kiptoo Simiyu,Eldoret
+M0710,Mwangi Langat,Machakos
+M0711,Baraka Omondi,Nyeri
+M0712,Moraa Githinji,Eldoret
+M0713,Achieng Waweru,Thika
+M0714,Wambui Kilonzo,Nairobi CBD
+M0715,Baraka Otieno,Mombasa
+M0716,Kimani Nduta,Kisumu
+M0717,Onyango Omondi,Kisumu
+M0718,Mwende Nyaga,Meru
+M0719,Fatuma Nyaga,Nairobi CBD
+M0720,Kariuki Cheruiyot,Kisumu
+M0721,Mwangi Kiplagat,Kisumu
+M0722,Kamau Mwikali,Mombasa
+M0723,Hassan Mutai,Nairobi CBD
+M0724,Juma Kariuki,Machakos
+M0725,Maina Nduta,Nairobi CBD
+M0726,Wafula Otieno,Thika
+M0727,Kemboi Ali,Kisii
+M0728,Mutua Rotich,Mombasa
+M0729,Nyambura Musyoka,Kitale
+M0730,Nyambura Kerubo,Kitale
+M0731,Maina Musyoka,Nairobi CBD
+M0732,Kamau Owino,Kisumu
+M0733,Juma Maweu,Nakuru
+M0734,Wangari Nyaga,Nairobi CBD
+M0735,Achieng Owino,Nairobi CBD
+M0736,Wangari Nduta,Kisumu
+M0737,Nyambura Kamau,Nyeri
+M0738,Maina Waweru,Thika
+M0739,Kiprono Rotich,Thika
+M0740,Zawadi Ouma,Kisii
+M0741,Kibet Githinji,Nairobi CBD
+M0742,Amina Wanjiru,Nairobi CBD
+M0743,Kipchoge Kioko,Mombasa
+M0744,Wairimu Kamau,Kisumu
+M0745,Jeptoo Langat,Nakuru
+M0746,Auma Kamau,Kisumu
+M0747,Muthoni Mohamed,Kisumu
+M0748,Wangari Langat,Nairobi CBD
+M0749,Hassan Gitau,Meru
+M0750,Baraka Mutai,Mombasa
+M0751,Achieng Kiplagat,Meru
+M0752,Maina Sang,Thika
+M0753,Onyango Ochieng,Eldoret
+M0754,Nekesa Sang,Mombasa
+M0755,Wekesa Kioko,Machakos
+M0756,Hassan Nasimiyu,Nakuru
+M0757,Akinyi Awuor,Eldoret
+M0758,Baraka Sang,Nairobi CBD
+M0759,Auma Kiprop,Nairobi CBD
+M0760,Wekesa Gitau,Kisumu
+M0761,Mwende Ochieng,Nairobi CBD
+M0762,Atieno Abdi,Nakuru
+M0763,Akinyi Gitau,Eldoret
+M0764,Chepkoech Okoth,Nairobi CBD
+M0765,Gathogo Okoth,Nakuru
+M0766,Wekesa Okoth,Thika
+M0767,Naliaka Ali,Nairobi CBD
+M0768,Kiptoo Kamau,Nyeri
+M0769,Kariuki Mwangi,Nairobi CBD
+M0770,Karanja Mohamed,Nairobi CBD
+M0771,Maina Mwikali,Nairobi CBD
+M0772,Juma Ali,Thika
+M0773,Akinyi Barasa,Kitale
+M0774,Achieng Rotich,Kitale
+M0775,Kipchoge Ali,Kitale
+M0776,Otieno Langat,Eldoret
+M0777,Imani Maweu,Eldoret
+M0778,Wairimu Okoth,Mombasa
+M0779,Imani Nasimiyu,Nairobi CBD
+M0780,Amina Mwikali,Thika
+M0781,Otieno Cheruiyot,Kisumu
+M0782,Kamau Muriuki,Nairobi CBD
+M0783,Baraka Korir,Kisumu
+M0784,Kimani Mbugua,Nakuru
+M0785,Cheruiyot Mutai,Nairobi CBD
+M0786,Kibet Kilonzo,Kisumu
+M0787,Imani Waweru,Mombasa
+M0788,Nekesa Mutai,Thika
+M0789,Naliaka Ochieng,Kitale
+M0790,Njeri Mbugua,Mombasa
+M0791,Adhiambo Korir,Nakuru
+M0792,Kariuki Kerubo,Meru
+M0793,Nafula Tanui,Eldoret
+M0794,Karanja Nduta,Thika
+M0795,Njeri Githinji,Nyeri
+M0796,Gathogo Ochieng,Kisumu
+M0797,Nyambura Nasimiyu,Nakuru
+M0798,Wairimu Mbugua,Mombasa
+M0799,Wangari Korir,Nakuru
+M0800,Gathogo Tanui,Nakuru
+M0801,Omondi Cheruiyot,Kisumu
+M0802,Jeptoo Nduta,Nairobi CBD
+M0803,Akinyi Maweu,Nyeri
+M0804,Kiprono Korir,Kisumu
+M0805,Hassan Muriuki,Nakuru
+M0806,Njoroge Kariuki,Machakos
+M0807,Kariuki Ali,Thika
+M0808,Atieno Kioko,Kisumu
+M0809,Wanjiku Omondi,Meru
+M0810,Kemboi Kiprop,Nyeri
+M0811,Cheruiyot Kioko,Meru
+M0812,Chebet Cheruiyot,Nakuru
+M0813,Mwende Nduta,Mombasa
+M0814,Kiptoo Sang,Nakuru
+M0815,Moraa Okoth,Nairobi CBD
+M0816,Imani Kioko,Machakos
+M0817,Barasa Omondi,Mombasa
+M0818,Auma Mbugua,Nyeri
+M0819,Wekesa Anyango,Nakuru
+M0820,Wambui Kariuki,Mombasa
+M0821,Wekesa Nduta,Meru
+M0822,Jeptoo Wekesa,Machakos
+M0823,Moraa Ali,Thika
+M0824,Karanja Mutiso,Nairobi CBD
+M0825,Mwende Bett,Nairobi CBD
+M0826,Chepkoech Awuor,Nairobi CBD
+M0827,Njoroge Ndambuki,Nairobi CBD
+M0828,Wanjiku Mwikali,Nairobi CBD
+M0829,Zawadi Mbugua,Nairobi CBD
+M0830,Wambui Kamau,Kisumu
+M0831,Wangari Sang,Nairobi CBD
+M0832,Zawadi Ndambuki,Meru
+M0833,Wanjiku Maweu,Nakuru
+M0834,Wanjiku Odhiambo,Nakuru
+M0835,Adhiambo Maweu,Kitale
+M0836,Otieno Gitau,Kisii
+M0837,Nyambura Wanjiru,Meru
+M0838,Njeri Ochieng,Kisumu
+M0839,Ochieng Awuor,Kisumu
+M0840,Karanja Nyaga,Machakos
+M0841,Chebet Okoth,Nakuru
+M0842,Fatuma Mbugua,Kisumu
+M0843,Juma Nasimiyu,Nairobi CBD
+M0844,Chebet Macharia,Mombasa
+M0845,Onyango Korir,Thika
+M0846,Fatuma Mutiso,Nairobi CBD
+M0847,Nafula Nduta,Machakos
+M0848,Auma Wanjiru,Kakamega
+M0849,Atieno Mohamed,Kakamega
+M0850,Onyango Nyaga,Nairobi CBD
+M0851,Auma Ndambuki,Nairobi CBD
+M0852,Barasa Odhiambo,Kitale
+M0853,Kariuki Ochieng,Machakos
+M0854,Baraka Ouma,Meru
+M0855,Auma Macharia,Thika
+M0856,Omondi Nasimiyu,Nyeri
+M0857,Fatuma Ali,Nairobi CBD
+M0858,Kemboi Mutuku,Nairobi CBD
+M0859,Nafula Mbugua,Kisii
+M0860,Jeptoo Muriuki,Machakos
+M0861,Nekesa Ouma,Kitale
+M0862,Kimani Bett,Kisumu
+M0863,Wekesa Macharia,Eldoret
+M0864,Amina Macharia,Nairobi CBD
+M0865,Wairimu Abdi,Nairobi CBD
+M0866,Omondi Abdi,Machakos
+M0867,Wambui Kerubo,Mombasa
+M0868,Muthoni Wanjiru,Nairobi CBD
+M0869,Adhiambo Wanjiru,Nairobi CBD
+M0870,Nyambura Kimutai,Eldoret
+M0871,Gathogo Wanjiru,Nairobi CBD
+M0872,Karanja Tanui,Nairobi CBD
+M0873,Nekesa Githinji,Kakamega
+M0874,Wanjiku Kilonzo,Mombasa
+M0875,Wairimu Waweru,Nakuru
+M0876,Odhiambo Njuguna,Kisumu
+M0877,Adhiambo Bett,Nairobi CBD
+M0878,Odhiambo Kimutai,Kisumu
+M0879,Njoroge Sang,Kisumu
+M0880,Wairimu Ali,Thika
+M0881,Nekesa Simiyu,Nairobi CBD
+M0882,Naliaka Kamau,Meru
+M0883,Jeptoo Simiyu,Mombasa
+M0884,Jeptoo Ndung'u,Mombasa
+M0885,Juma Muriuki,Nairobi CBD
+M0886,Fatuma Kariuki,Eldoret
+M0887,Nyambura Ouma,Kitale
+M0888,Maina Kerubo,Nyeri
+M0889,Moraa Waweru,Machakos
+M0890,Barasa Macharia,Kisumu
+M0891,Kiprono Anyango,Kitale
+M0892,Nyambura Barasa,Machakos
+M0893,Otieno Ali,Eldoret
+M0894,Kimani Kilonzo,Kisii
+M0895,Njoroge Mwikali,Thika
+M0896,Kipchoge Kiplagat,Mombasa
+M0897,Nafula Macharia,Nairobi CBD
+M0898,Kariuki Ouma,Nakuru
+M0899,Fatuma Mwikali,Nakuru
+M0900,Mwende Muriuki,Thika
+M0901,Akinyi Wanjiru,Machakos
+M0902,Amina Ndambuki,Mombasa
+M0903,Juma Simiyu,Nairobi CBD
+M0904,Juma Ouma,Kitale
+M0905,Jeptoo Kimutai,Nairobi CBD
+M0906,Kamau Wekesa,Kisumu
+M0907,Fatuma Waweru,Kisumu
+M0908,Muthoni Ouma,Eldoret
+M0909,Fatuma Gitau,Nairobi CBD
+M0910,Otieno Kioko,Nairobi CBD
+M0911,Gathogo Otieno,Nairobi CBD
+M0912,Imani Ochieng,Mombasa
+M0913,Jeptoo Okoth,Machakos
+M0914,Njeri Kioko,Mombasa
+M0915,Kamau Ndung'u,Nyeri
+M0916,Njoroge Langat,Nairobi CBD
+M0917,Baraka Kiprop,Nairobi CBD
+M0918,Kamau Barasa,Machakos
+M0919,Kemboi Cheruiyot,Nakuru
+M0920,Nafula Okoth,Kisumu
+M0921,Chebet Kiplagat,Nairobi CBD
+M0922,Otieno Kerubo,Thika
+M0923,Kiprono Ndung'u,Nakuru
+M0924,Omondi Kamau,Nyeri
+M0925,Atieno Nyaga,Machakos
+M0926,Njoroge Waweru,Nairobi CBD
+M0927,Mwende Rotich,Mombasa
+M0928,Kiprono Okoth,Nairobi CBD
+M0929,Amina Bett,Nakuru
+M0930,Nekesa Macharia,Thika
+M0931,Kariuki Kiprop,Mombasa
+M0932,Wangari Simiyu,Nairobi CBD
+M0933,Hassan Abdi,Machakos
+M0934,Ochieng Anyango,Nairobi CBD
+M0935,Achieng Cheruiyot,Mombasa
+M0936,Nyambura Sang,Nyeri
+M0937,Kibet Macharia,Mombasa
+M0938,Kipchoge Waweru,Mombasa
+M0939,Fatuma Nduta,Meru
+M0940,Nyambura Tanui,Nairobi CBD
+M0941,Maina Njuguna,Nairobi CBD
+M0942,Kimani Simiyu,Nairobi CBD
+M0943,Karanja Kamau,Eldoret
+M0944,Kiprono Macharia,Kitale
+M0945,Moraa Mwikali,Thika
+M0946,Gathogo Abdi,Kisii
+M0947,Moraa Mutiso,Nairobi CBD
+M0948,Mwangi Kilonzo,Nairobi CBD
+M0949,Maina Mutiso,Machakos
+M0950,Auma Kerubo,Machakos
+M0951,Moraa Tanui,Nakuru
+M0952,Adhiambo Mutai,Nakuru
+M0953,Muthoni Maweu,Kisii
+M0954,Mutua Nasimiyu,Nyeri
+M0955,Mwende Omondi,Kitale
+M0956,Mutua Ndung'u,Kisumu
+M0957,Akinyi Ndung'u,Kakamega
+M0958,Achieng Mutai,Kisii
+M0959,Atieno Kerubo,Nakuru
+M0960,Karanja Abdi,Thika
+M0961,Atieno Omondi,Machakos
+M0962,Nekesa Maweu,Nairobi CBD
+M0963,Baraka Kilonzo,Kisumu
+M0964,Adhiambo Gitau,Kitale
+M0965,Hassan Wanjiru,Nairobi CBD
+M0966,Chepkoech Nyaga,Kakamega
+M0967,Kipchoge Mohamed,Kakamega
+M0968,Wairimu Nasimiyu,Kisii
+M0969,Zawadi Mwikali,Mombasa
+M0970,Kemboi Nyaga,Nyeri
+M0971,Muthoni Okoth,Kitale
+M0972,Barasa Anyango,Nairobi CBD
+M0973,Wafula Ali,Nairobi CBD
+M0974,Mwende Ouma,Kisumu
+M0975,Nafula Omondi,Eldoret
+M0976,Barasa Kilonzo,Mombasa
+M0977,Auma Bett,Machakos
+M0978,Chepkoech Musyoka,Nairobi CBD
+M0979,Wangari Odhiambo,Nairobi CBD
+M0980,Nafula Kariuki,Kitale
+M0981,Kipchoge Nduta,Mombasa
+M0982,Adhiambo Otieno,Thika
+M0983,Kiptoo Otieno,Mombasa
+M0984,Juma Mutiso,Nairobi CBD
+M0985,Zawadi Langat,Nyeri
+M0986,Cheruiyot Mbugua,Eldoret
+M0987,Akinyi Abdi,Nairobi CBD
+M0988,Njoroge Njuguna,Nakuru
+M0989,Njeri Barasa,Eldoret
+M0990,Wanjiku Mohamed,Mombasa
+M0991,Achieng Kimutai,Nyeri
+M0992,Onyango Mwangi,Kisumu
+M0993,Akinyi Ali,Machakos
+M0994,Muthoni Langat,Nairobi CBD
+M0995,Wafula Nasimiyu,Kakamega
+M0996,Wambui Mwangi,Nakuru
+M0997,Imani Omondi,Thika
+M0998,Kimani Omondi,Nairobi CBD
+M0999,Cheruiyot Kiprop,Nakuru
+M1000,Omondi Mutuku,Kitale
+M1001,Barasa Njuguna,Kisumu
+M1002,Juma Otieno,Kisumu
+M1003,Nekesa Muriuki,Nyeri
+M1004,Fatuma Odhiambo,Kisii
+M1005,Atieno Awuor,Nakuru
+M1006,Kiprono Kerubo,Mombasa
+M1007,Juma Korir,Machakos
+M1008,Omondi Kiprop,Kisumu
+M1009,Njoroge Awuor,Kakamega
+M1010,Wanjiku Sang,Meru
+M1011,Kipchoge Macharia,Kakamega
+M1012,Hassan Rotich,Machakos
+M1013,Otieno Anyango,Nairobi CBD
+M1014,Kiptoo Omondi,Nairobi CBD
+M1015,Chepkoech Ouma,Eldoret
+M1016,Gathogo Kimutai,Nyeri
+M1017,Akinyi Kiplagat,Nakuru
+M1018,Naliaka Otieno,Nakuru
+M1019,Atieno Ochieng,Nakuru
+M1020,Chebet Anyango,Thika
+M1021,Naliaka Mohamed,Eldoret
+M1022,Wairimu Korir,Kisumu
+M1023,Nekesa Korir,Mombasa
+M1024,Kemboi Ndambuki,Nyeri
+M1025,Fatuma Kamau,Nairobi CBD
+M1026,Karanja Awuor,Nakuru
+M1027,Imani Wekesa,Nairobi CBD
+M1028,Kipchoge Kerubo,Machakos
+M1029,Otieno Owino,Machakos
+M1030,Adhiambo Awuor,Nairobi CBD
+M1031,Baraka Waweru,Thika
+M1032,Chepkoech Bett,Kisii
+M1033,Odhiambo Wekesa,Machakos
+M1034,Imani Kiprop,Kisumu
+M1035,Kibet Kamau,Nairobi CBD
+M1036,Wanjiku Cheruiyot,Nairobi CBD
+M1037,Muthoni Macharia,Meru
+M1038,Kemboi Nduta,Mombasa
+M1039,Gathogo Ali,Mombasa
+M1040,Muthoni Kiprop,Eldoret
+M1041,Chepkoech Rotich,Kisumu
+M1042,Njeri Musyoka,Kitale
+M1043,Njoroge Okoth,Kakamega
+M1044,Barasa Otieno,Nakuru
+M1045,Kiprono Kilonzo,Nakuru
+M1046,Ochieng Cheruiyot,Eldoret
+M1047,Kariuki Bett,Kitale
+M1048,Wafula Kariuki,Nyeri
+M1049,Otieno Mbugua,Nakuru
+M1050,Zawadi Mohamed,Kakamega
+M1051,Jeptoo Kamau,Machakos
+M1052,Omondi Kerubo,Nyeri
+M1053,Kamau Omondi,Nakuru
+M1054,Moraa Korir,Kitale
+M1055,Njeri Mwikali,Nyeri
+M1056,Kemboi Otieno,Nakuru
+M1057,Kibet Njuguna,Thika
+M1058,Chebet Mwangi,Nakuru
+M1059,Chepkoech Kimutai,Thika
+M1060,Maina Wekesa,Kisii
+M1061,Chebet Mohamed,Kisii
+M1062,Barasa Githinji,Eldoret
+M1063,Kariuki Wanjiru,Nairobi CBD
+M1064,Wangari Githinji,Mombasa
+M1065,Mwende Mutuku,Kitale
+M1066,Kiptoo Kiprop,Nairobi CBD
+M1067,Baraka Mohamed,Nakuru
+M1068,Atieno Githinji,Nairobi CBD
+M1069,Baraka Cheruiyot,Kitale
+M1070,Chepkoech Barasa,Kisumu
+M1071,Nyambura Odhiambo,Kitale
+M1072,Kimani Tanui,Nyeri
+M1073,Wairimu Wanjiru,Eldoret
+M1074,Kipchoge Kiprop,Nairobi CBD
+M1075,Wafula Mbugua,Nairobi CBD
+M1076,Hassan Kiplagat,Meru
+M1077,Akinyi Anyango,Nakuru
+M1078,Njoroge Odhiambo,Kitale
+M1079,Kiprono Nduta,Eldoret
+M1080,Kipchoge Otieno,Meru
+M1081,Mutua Okoth,Nairobi CBD
+M1082,Auma Kimutai,Kisii
+M1083,Otieno Macharia,Thika
+M1084,Nyambura Mutuku,Kisumu
+M1085,Wambui Musyoka,Thika
+M1086,Juma Kilonzo,Eldoret
+M1087,Chepkoech Otieno,Kisumu
+M1088,Kipchoge Mwikali,Nairobi CBD
+M1089,Njeri Cheruiyot,Thika
+M1090,Karanja Kioko,Nakuru
+M1091,Moraa Mutuku,Meru
+M1092,Mwangi Odhiambo,Kakamega
+M1093,Wafula Nyaga,Nairobi CBD
+M1094,Kariuki Mbugua,Kitale
+M1095,Amina Cheruiyot,Kisumu
+M1096,Kemboi Korir,Machakos
+M1097,Mwangi Waweru,Kisii
+M1098,Nyambura Rotich,Kisumu
+M1099,Barasa Kerubo,Nyeri
+M1100,Kariuki Odhiambo,Nyeri
+M1101,Karanja Waweru,Nakuru
+M1102,Moraa Musyoka,Nairobi CBD
+M1103,Mwangi Muriuki,Kisumu
+M1104,Wanjiku Owino,Meru
+M1105,Nyambura Githinji,Nairobi CBD
+M1106,Wambui Anyango,Nyeri
+M1107,Wambui Mutai,Nairobi CBD
+M1108,Njeri Sang,Kitale
+M1109,Muthoni Abdi,Meru
+M1110,Naliaka Githinji,Nairobi CBD
+M1111,Nafula Kiplagat,Kitale
+M1112,Juma Githinji,Nairobi CBD
+M1113,Wekesa Mohamed,Kakamega
+M1114,Ochieng Mutuku,Kisumu
+M1115,Omondi Langat,Nyeri
+M1116,Wafula Waweru,Nairobi CBD
+M1117,Wambui Owino,Nyeri
+M1118,Wairimu Mutuku,Kitale
+M1119,Odhiambo Kiplagat,Kakamega
+M1120,Amina Kiplagat,Nyeri
+M1121,Wanjiku Wekesa,Kisumu
+M1122,Fatuma Mwangi,Mombasa
+M1123,Kamau Ali,Nairobi CBD
+M1124,Odhiambo Mwikali,Eldoret
+M1125,Mwende Macharia,Nairobi CBD
+M1126,Onyango Waweru,Thika
+M1127,Hassan Mbugua,Nairobi CBD
+M1128,Maina Odhiambo,Mombasa
+M1129,Kamau Mwangi,Mombasa
+M1130,Omondi Mutiso,Nyeri
+M1131,Wekesa Otieno,Mombasa
+M1132,Ochieng Kioko,Nyeri
+M1133,Odhiambo Muriuki,Kakamega
+M1134,Odhiambo Korir,Nairobi CBD
+M1135,Atieno Kariuki,Mombasa
+M1136,Maina Langat,Kisumu
+M1137,Auma Tanui,Kisii
+M1138,Wambui Korir,Mombasa
+M1139,Nafula Otieno,Kisumu
+M1140,Kiprono Wanjiru,Nairobi CBD
+M1141,Maina Otieno,Eldoret
+M1142,Achieng Langat,Machakos
+M1143,Onyango Bett,Kakamega
+M1144,Omondi Rotich,Mombasa
+M1145,Omondi Sang,Nairobi CBD
+M1146,Mutua Wekesa,Eldoret
+M1147,Cheruiyot Mohamed,Thika
+M1148,Akinyi Ndambuki,Mombasa
+M1149,Mwende Mwikali,Kitale
+M1150,Omondi Awuor,Mombasa
+M1151,Chebet Abdi,Nairobi CBD
+M1152,Auma Awuor,Machakos
+M1153,Hassan Simiyu,Nairobi CBD
+M1154,Kipchoge Musyoka,Eldoret
+M1155,Kiprono Kiplagat,Nairobi CBD
+M1156,Barasa Ali,Meru
+M1157,Omondi Tanui,Mombasa
+M1158,Barasa Nyaga,Nakuru
+M1159,Wambui Ochieng,Nakuru
+M1160,Kariuki Nasimiyu,Kitale
+M1161,Kamau Wanjiru,Nakuru
+M1162,Kamau Kilonzo,Kakamega
+M1163,Karanja Mwikali,Kisumu
+M1164,Chebet Ochieng,Thika
+M1165,Hassan Mohamed,Mombasa
+M1166,Chebet Owino,Nyeri
+M1167,Chepkoech Kerubo,Eldoret
+M1168,Adhiambo Sang,Nairobi CBD
+M1169,Naliaka Langat,Kisumu
+M1170,Kimani Mutai,Kisii
+M1171,Gathogo Muriuki,Thika
+M1172,Atieno Mwikali,Nyeri
+M1173,Muthoni Korir,Nakuru
+M1174,Naliaka Abdi,Eldoret
+M1175,Njeri Waweru,Nairobi CBD
+M1176,Kiprono Kariuki,Kisii
+M1177,Kiprono Nyaga,Mombasa
+M1178,Muthoni Bett,Nakuru
+M1179,Nyambura Kioko,Nakuru
+M1180,Karanja Mutuku,Nairobi CBD
+M1181,Kiptoo Kerubo,Kisii
+M1182,Chepkoech Mutiso,Kisii
+M1183,Wafula Omondi,Kisii
+M1184,Juma Mbugua,Thika
+M1185,Adhiambo Nduta,Mombasa
+M1186,Otieno Mutai,Kitale
+M1187,Hassan Kamau,Eldoret
+M1188,Nyambura Muriuki,Machakos
+M1189,Mwangi Wekesa,Nakuru
+M1190,Baraka Nduta,Kisumu
+M1191,Wangari Wekesa,Kisumu
+M1192,Naliaka Barasa,Nakuru
+M1193,Ochieng Ouma,Nakuru
+M1194,Wanjiku Gitau,Kitale
+M1195,Nekesa Kilonzo,Kisumu
+M1196,Kamau Kioko,Nairobi CBD
+M1197,Wambui Awuor,Machakos
+M1198,Chebet Ndambuki,Mombasa
+M1199,Otieno Nduta,Eldoret
+M1200,Gathogo Ouma,Mombasa
+M1201,Mutua Anyango,Nyeri
+M1202,Jeptoo Ali,Nyeri
+M1203,Zawadi Kioko,Meru
+M1204,Amina Mutuku,Eldoret
+M1205,Odhiambo Ndambuki,Kakamega
+M1206,Nyambura Kilonzo,Nairobi CBD
+M1207,Wekesa Nasimiyu,Meru
+M1208,Hassan Owino,Thika
+M1209,Mwangi Kerubo,Kakamega
+M1210,Kariuki Kilonzo,Eldoret
+M1211,Achieng Kioko,Nairobi CBD
+M1212,Zawadi Anyango,Nakuru
+M1213,Ochieng Mwangi,Eldoret
+M1214,Kiprono Gitau,Nairobi CBD
+M1215,Njeri Langat,Mombasa
+M1216,Kiprono Owino,Mombasa
+M1217,Auma Okoth,Nairobi CBD
+M1218,Baraka Rotich,Machakos
+M1219,Moraa Owino,Thika
+M1220,Wanjiku Ndung'u,Kisumu
+M1221,Odhiambo Waweru,Machakos
+M1222,Moraa Nasimiyu,Machakos
+M1223,Kipchoge Simiyu,Eldoret
+M1224,Nafula Kioko,Mombasa
+M1225,Mutua Maweu,Nairobi CBD
+M1226,Muthoni Kamau,Kakamega
+M1227,Kiprono Odhiambo,Thika
+M1228,Fatuma Mutuku,Mombasa
+M1229,Kamau Macharia,Eldoret
+M1230,Wangari Ali,Nakuru
+M1231,Njeri Owino,Eldoret
+M1232,Jeptoo Bett,Mombasa
+M1233,Kiprono Mutiso,Meru
+M1234,Chebet Odhiambo,Kisumu
+M1235,Atieno Ali,Nairobi CBD
+M1236,Kibet Mutiso,Nairobi CBD
+M1237,Mutua Macharia,Kakamega
+M1238,Kiptoo Mutai,Nakuru
+M1239,Chepkoech Ndambuki,Nairobi CBD
+M1240,Otieno Korir,Thika
+M1241,Gathogo Ndung'u,Mombasa
+M1242,Wekesa Wekesa,Eldoret
+M1243,Fatuma Barasa,Thika
+M1244,Naliaka Mwikali,Thika
+M1245,Adhiambo Simiyu,Nakuru
+M1246,Imani Simiyu,Nairobi CBD
+M1247,Achieng Wanjiru,Eldoret
+M1248,Nekesa Kariuki,Machakos
+M1249,Odhiambo Musyoka,Nakuru
+M1250,Onyango Owino,Kisumu
+M1251,Akinyi Kiprop,Kisii
+M1252,Wambui Otieno,Machakos
+M1253,Njoroge Ali,Nyeri
+M1254,Mwangi Okoth,Kitale
+M1255,Kamau Rotich,Kakamega
+M1256,Hassan Githinji,Eldoret
+M1257,Cheruiyot Musyoka,Nairobi CBD
+M1258,Kipchoge Ndambuki,Thika
+M1259,Jeptoo Rotich,Nairobi CBD
+M1260,Adhiambo Macharia,Thika
+M1261,Ochieng Odhiambo,Kakamega
+M1262,Njoroge Wekesa,Thika
+M1263,Wanjiku Abdi,Kakamega
+M1264,Njeri Mutai,Nyeri
+M1265,Mwangi Ndambuki,Kakamega
+M1266,Fatuma Mohamed,Thika
+M1267,Imani Cheruiyot,Eldoret
+M1268,Amina Barasa,Thika
+M1269,Wanjiku Nduta,Meru
+M1270,Kibet Kioko,Kisii
+M1271,Jeptoo Nyaga,Nairobi CBD
+M1272,Mwangi Tanui,Thika
+M1273,Akinyi Okoth,Eldoret
+M1274,Akinyi Bett,Eldoret
+M1275,Achieng Bett,Nyeri
+M1276,Otieno Wanjiru,Mombasa
+M1277,Mutua Tanui,Nakuru
+M1278,Wekesa Omondi,Thika
+M1279,Wangari Owino,Mombasa
+M1280,Chepkoech Mbugua,Kisii
+M1281,Baraka Ndambuki,Mombasa
+M1282,Kimani Kiprop,Nairobi CBD
+M1283,Amina Mbugua,Nairobi CBD
+M1284,Karanja Kiplagat,Kitale
+M1285,Fatuma Wanjiru,Nairobi CBD
+M1286,Odhiambo Bett,Nairobi CBD
+M1287,Baraka Kerubo,Nyeri
+M1288,Ochieng Kariuki,Nairobi CBD
+M1289,Chebet Omondi,Eldoret
+M1290,Mutua Kiplagat,Kisii
+M1291,Wafula Ndung'u,Eldoret
+M1292,Kariuki Gitau,Nairobi CBD
+M1293,Moraa Kamau,Nakuru
+M1294,Chepkoech Tanui,Meru
+M1295,Nyambura Mohamed,Nakuru
+M1296,Amina Muriuki,Nakuru
+M1297,Barasa Gitau,Kakamega
+M1298,Fatuma Kerubo,Nakuru
+M1299,Fatuma Tanui,Kakamega
+M1300,Wekesa Kiplagat,Kisumu
+M1301,Atieno Simiyu,Nyeri
+M1302,Hassan Mutuku,Meru
+M1303,Kipchoge Abdi,Thika
+M1304,Nyambura Gitau,Nakuru
+M1305,Cheruiyot Mutuku,Nakuru
+M1306,Amina Abdi,Mombasa
+M1307,Maina Kimutai,Machakos
+M1308,Njeri Wanjiru,Nairobi CBD
+M1309,Amina Korir,Nairobi CBD
+M1310,Maina Barasa,Kisumu
+M1311,Chepkoech Mohamed,Machakos
+M1312,Atieno Nasimiyu,Nakuru
+M1313,Kamau Simiyu,Kakamega
+M1314,Kibet Mohamed,Kisumu
+M1315,Gathogo Barasa,Mombasa
+M1316,Wanjiku Kerubo,Kisumu
+M1317,Ochieng Mutai,Kakamega
+M1318,Kariuki Maweu,Nyeri
+M1319,Kiprono Mutai,Nyeri
+M1320,Hassan Mwangi,Nairobi CBD
+M1321,Omondi Musyoka,Eldoret
+M1322,Kipchoge Mutiso,Nakuru
+M1323,Mutua Ochieng,Meru
+M1324,Ochieng Ndambuki,Mombasa
+M1325,Nyambura Awuor,Nairobi CBD
+M1326,Gathogo Maweu,Nakuru
+M1327,Akinyi Mutuku,Kisumu
+M1328,Atieno Ndambuki,Mombasa
+M1329,Muthoni Kilonzo,Kisumu
+M1330,Cheruiyot Simiyu,Nakuru
+M1331,Juma Kamau,Nairobi CBD
+M1332,Wairimu Nduta,Thika
+M1333,Mutua Barasa,Kakamega
+M1334,Omondi Wekesa,Nakuru
+M1335,Kibet Ndung'u,Eldoret
+M1336,Wafula Maweu,Nakuru
+M1337,Zawadi Mwangi,Kisumu
+M1338,Zawadi Mutai,Kisumu
+M1339,Mwende Mohamed,Kakamega
+M1340,Kemboi Mutai,Eldoret
+M1341,Njoroge Kerubo,Thika
+M1342,Otieno Okoth,Nyeri
+M1343,Mutua Otieno,Nairobi CBD
+M1344,Wekesa Mwangi,Nakuru
+M1345,Chebet Kimutai,Mombasa
+M1346,Achieng Maweu,Nairobi CBD
+M1347,Njoroge Nasimiyu,Nyeri
+M1348,Mutua Mohamed,Kisii
+M1349,Karanja Gitau,Nairobi CBD
+M1350,Nekesa Otieno,Kisumu
+M1351,Kimani Macharia,Mombasa
+M1352,Amina Odhiambo,Eldoret
+M1353,Mwende Mbugua,Nairobi CBD
+M1354,Chebet Maweu,Kisumu
+M1355,Zawadi Ochieng,Kisumu
+M1356,Imani Nduta,Mombasa
+M1357,Achieng Musyoka,Nairobi CBD
+M1358,Mwende Tanui,Meru
+M1359,Naliaka Omondi,Nyeri
+M1360,Imani Mutuku,Kisumu
+M1361,Nyambura Mbugua,Thika
+M1362,Amina Waweru,Kisii
+M1363,Maina Ndambuki,Nairobi CBD
+M1364,Karanja Njuguna,Thika
+M1365,Maina Simiyu,Nairobi CBD
+M1366,Fatuma Anyango,Nairobi CBD
+M1367,Mwangi Abdi,Nyeri
+M1368,Muthoni Njuguna,Thika
+M1369,Jeptoo Kioko,Eldoret
+M1370,Nyambura Nduta,Nakuru
+M1371,Adhiambo Njuguna,Kakamega
+M1372,Kiprono Wekesa,Nyeri
+M1373,Imani Mwangi,Kakamega
+M1374,Kibet Kiplagat,Nairobi CBD
+M1375,Chebet Mutai,Nakuru
+M1376,Kiptoo Maweu,Kakamega
+M1377,Juma Mutai,Nairobi CBD
+M1378,Chebet Mbugua,Kakamega
+M1379,Odhiambo Nasimiyu,Nakuru
+M1380,Kimani Mutiso,Nairobi CBD
+M1381,Karanja Musyoka,Kisumu
+M1382,Moraa Mbugua,Nairobi CBD
+M1383,Muthoni Mbugua,Nairobi CBD
+M1384,Njeri Kiplagat,Kisii
+M1385,Kemboi Wekesa,Nakuru
+M1386,Auma Rotich,Mombasa
+M1387,Kariuki Nduta,Kakamega
+M1388,Kiptoo Macharia,Kitale
+M1389,Mwangi Awuor,Mombasa
+M1390,Karanja Bett,Machakos
+M1391,Nekesa Kamau,Eldoret
+M1392,Kipchoge Ndung'u,Nairobi CBD
+M1393,Njoroge Gitau,Thika
+M1394,Muthoni Muriuki,Nyeri
+M1395,Achieng Ndambuki,Kisumu
+M1396,Hassan Kioko,Eldoret
+M1397,Kariuki Mutiso,Thika
+M1398,Gathogo Odhiambo,Kisumu
+M1399,Kibet Musyoka,Kakamega
+M1400,Auma Kiplagat,Nairobi CBD
+M1401,Amina Kilonzo,Meru
+M1402,Onyango Mutiso,Kisumu
+M1403,Wafula Rotich,Thika
+M1404,Kibet Wekesa,Nairobi CBD
+M1405,Wangari Muriuki,Nakuru
+M1406,Mwangi Macharia,Mombasa
+M1407,Kamau Odhiambo,Kisumu
+M1408,Kibet Barasa,Mombasa
+M1409,Onyango Simiyu,Nakuru
+M1410,Akinyi Kioko,Thika
+M1411,Wanjiku Mutai,Thika
+M1412,Nafula Awuor,Eldoret
+M1413,Njeri Kimutai,Kisumu
+M1414,Onyango Mutai,Mombasa
+M1415,Kiptoo Kioko,Machakos
+M1416,Kiprono Kamau,Nyeri
+M1417,Njeri Kiprop,Nakuru
+M1418,Omondi Nduta,Kisumu
+M1419,Barasa Mwikali,Mombasa
+M1420,Wambui Kimutai,Thika
+M1421,Kiptoo Wekesa,Kisii
+M1422,Nafula Waweru,Mombasa
+M1423,Adhiambo Barasa,Mombasa
+M1424,Onyango Rotich,Mombasa
+M1425,Kiptoo Langat,Nakuru
+M1426,Wafula Abdi,Mombasa
+M1427,Achieng Kerubo,Kisumu
+M1428,Kibet Ouma,Machakos
+M1429,Wekesa Simiyu,Nyeri
+M1430,Odhiambo Macharia,Kitale
+M1431,Wanjiku Otieno,Kisii
+M1432,Onyango Muriuki,Eldoret
+M1433,Mwangi Sang,Nairobi CBD
+M1434,Ochieng Nduta,Nakuru
+M1435,Baraka Muriuki,Nairobi CBD
+M1436,Zawadi Bett,Eldoret
+M1437,Kiprono Ndambuki,Meru
+M1438,Kiprono Musyoka,Machakos
+M1439,Ochieng Mutiso,Thika
+M1440,Odhiambo Otieno,Kitale
+M1441,Wafula Ouma,Mombasa
+M1442,Chebet Ouma,Nakuru
+M1443,Njeri Kamau,Nyeri
+M1444,Wekesa Kilonzo,Nyeri
+M1445,Adhiambo Mbugua,Nakuru
+M1446,Chebet Waweru,Nairobi CBD
+M1447,Kibet Wanjiru,Nakuru
+M1448,Mwende Waweru,Kisumu
+M1449,Auma Kioko,Machakos
+M1450,Cheruiyot Owino,Kitale
+M1451,Wangari Anyango,Kakamega
+M1452,Kiptoo Mwangi,Mombasa
+M1453,Wairimu Kilonzo,Nairobi CBD
+M1454,Hassan Kerubo,Kisii
+M1455,Barasa Mutuku,Kisumu
+M1456,Auma Nyaga,Nairobi CBD
+M1457,Kiprono Bett,Nyeri
+M1458,Wairimu Kerubo,Kisumu
+M1459,Mwangi Kariuki,Kisii
+M1460,Kamau Kiprop,Meru
+M1461,Hassan Ndambuki,Eldoret
+M1462,Mwende Musyoka,Kisii
+M1463,Muthoni Simiyu,Mombasa
+M1464,Moraa Rotich,Kitale
+M1465,Kipchoge Korir,Nakuru
+M1466,Kibet Mutuku,Mombasa
+M1467,Nyambura Okoth,Kitale
+M1468,Wanjiku Barasa,Kisumu
+M1469,Barasa Sang,Thika
+M1470,Kiptoo Rotich,Nakuru
+M1471,Jeptoo Sang,Nairobi CBD
+M1472,Cheruiyot Sang,Mombasa
+M1473,Imani Nyaga,Machakos
+M1474,Wekesa Kimutai,Kisii
+M1475,Kemboi Ochieng,Eldoret
+M1476,Wanjiku Rotich,Eldoret
+M1477,Njeri Maweu,Nyeri
+M1478,Moraa Langat,Kisumu
+M1479,Auma Korir,Mombasa
+M1480,Chepkoech Omondi,Kisii
+M1481,Onyango Kiplagat,Nairobi CBD
+M1482,Gathogo Kiprop,Mombasa
+M1483,Kiprono Waweru,Nakuru
+M1484,Nyambura Mutai,Kisumu
+M1485,Barasa Barasa,Nakuru
+M1486,Wafula Kerubo,Eldoret
+M1487,Akinyi Macharia,Thika
+M1488,Zawadi Owino,Eldoret
+M1489,Akinyi Mutiso,Mombasa
+M1490,Nekesa Nduta,Mombasa
+M1491,Muthoni Kerubo,Nakuru
+M1492,Odhiambo Rotich,Kisii
+M1493,Wairimu Ndambuki,Kisumu
+M1494,Kemboi Mohamed,Nyeri
+M1495,Atieno Mutiso,Mombasa
+M1496,Onyango Tanui,Nairobi CBD
+M1497,Njeri Nasimiyu,Kitale
+M1498,Mwangi Cheruiyot,Nyeri
+M1499,Njeri Mutiso,Nairobi CBD
+M1500,Barasa Kioko,Eldoret
+M1501,Kemboi Kiplagat,Kakamega
+M1502,Zawadi Kiplagat,Nakuru
+M1503,Naliaka Sang,Mombasa
+M1504,Wambui Langat,Nairobi CBD
+M1505,Kipchoge Mutuku,Kisumu
+M1506,Wafula Kimutai,Machakos
+M1507,Nekesa Mbugua,Machakos
+M1508,Kiprono Mwikali,Kakamega
+M1509,Juma Macharia,Kisii
+M1510,Ochieng Mohamed,Thika
+M1511,Adhiambo Mwikali,Nairobi CBD
+M1512,Njoroge Rotich,Nairobi CBD
+M1513,Kimani Nyaga,Nyeri
+M1514,Maina Nyaga,Nairobi CBD
+M1515,Kimani Ali,Nairobi CBD
+M1516,Akinyi Ochieng,Nairobi CBD
+M1517,Gathogo Langat,Machakos
+M1518,Moraa Sang,Eldoret
+M1519,Wairimu Macharia,Machakos
+M1520,Kamau Awuor,Thika
+M1521,Imani Musyoka,Nyeri
+M1522,Wekesa Awuor,Nairobi CBD
+M1523,Zawadi Kimutai,Mombasa
+M1524,Wanjiku Musyoka,Nakuru
+M1525,Jeptoo Nasimiyu,Thika
+M1526,Barasa Tanui,Machakos
+M1527,Karanja Ali,Nairobi CBD
+M1528,Mutua Bett,Nyeri
+M1529,Nekesa Tanui,Nairobi CBD
+M1530,Omondi Ali,Nairobi CBD
+M1531,Otieno Simiyu,Kisii
+M1532,Wairimu Githinji,Nyeri
+M1533,Amina Maweu,Kisii
+M1534,Kiprono Awuor,Thika
+M1535,Wambui Simiyu,Kisumu
+M1536,Amina Mwangi,Nairobi CBD
+M1537,Kipchoge Rotich,Kakamega
+M1538,Kamau Musyoka,Nakuru
+M1539,Omondi Ndambuki,Eldoret
+M1540,Kariuki Wekesa,Nairobi CBD
+M1541,Baraka Mwangi,Nairobi CBD
+M1542,Atieno Nduta,Eldoret
+M1543,Chepkoech Simiyu,Kisumu
+M1544,Omondi Kariuki,Nairobi CBD
+M1545,Gathogo Kerubo,Nairobi CBD
+M1546,Odhiambo Maweu,Kitale
+M1547,Gathogo Nasimiyu,Thika
+M1548,Nekesa Cheruiyot,Nakuru
+M1549,Muthoni Ndung'u,Eldoret
+M1550,Otieno Awuor,Nairobi CBD
+M1551,Naliaka Mbugua,Kisumu
+M1552,Wafula Mohamed,Kisii
+M1553,Wekesa Waweru,Meru
+M1554,Wambui Wanjiru,Nairobi CBD
+M1555,Karanja Ochieng,Nairobi CBD
+M1556,Akinyi Waweru,Mombasa
+M1557,Naliaka Musyoka,Nyeri
+M1558,Akinyi Mutai,Nairobi CBD
+M1559,Karanja Kimutai,Mombasa
+M1560,Wanjiku Kiplagat,Machakos
+M1561,Omondi Korir,Mombasa
+M1562,Wambui Githinji,Eldoret
+M1563,Mwangi Ochieng,Nairobi CBD
+M1564,Imani Ouma,Kitale
+M1565,Cheruiyot Muriuki,Nakuru
+M1566,Nafula Kilonzo,Machakos
+M1567,Wekesa Ouma,Kisumu
+M1568,Nafula Mutai,Nyeri
+M1569,Cheruiyot Njuguna,Eldoret
+M1570,Wairimu Cheruiyot,Nairobi CBD
+M1571,Muthoni Mutuku,Nairobi CBD
+M1572,Karanja Muriuki,Thika
+M1573,Odhiambo Mutuku,Thika
+M1574,Wambui Ndung'u,Nairobi CBD
+M1575,Wambui Nasimiyu,Nyeri
+M1576,Wairimu Simiyu,Meru
+M1577,Maina Kamau,Mombasa
+M1578,Kimani Kioko,Nairobi CBD
+M1579,Kiptoo Tanui,Eldoret
+M1580,Omondi Anyango,Meru
+M1581,Ochieng Nyaga,Nairobi CBD
+M1582,Njoroge Macharia,Thika
+M1583,Otieno Kilonzo,Kakamega
+M1584,Kibet Abdi,Nairobi CBD
+M1585,Barasa Bett,Kakamega
+M1586,Otieno Musyoka,Kisumu
+M1587,Chebet Kerubo,Nairobi CBD
+M1588,Wairimu Gitau,Kisumu
+M1589,Otieno Tanui,Meru
+M1590,Jeptoo Ouma,Thika
+M1591,Mwangi Mwikali,Kisumu
+M1592,Naliaka Muriuki,Mombasa
+M1593,Kipchoge Anyango,Nakuru
+M1594,Baraka Awuor,Meru
+M1595,Wambui Nduta,Meru
+M1596,Mwende Ali,Nairobi CBD
+M1597,Barasa Ochieng,Nyeri
+M1598,Cheruiyot Githinji,Kakamega
+M1599,Ochieng Simiyu,Kisumu
+M1600,Hassan Odhiambo,Mombasa
+M1601,Onyango Njuguna,Eldoret
+M1602,Omondi Bett,Eldoret
+M1603,Mwangi Musyoka,Mombasa
+M1604,Wanjiku Nyaga,Kitale
+M1605,Amina Kariuki,Machakos
+M1606,Barasa Okoth,Kakamega
+M1607,Wafula Musyoka,Nakuru
+M1608,Barasa Ouma,Thika
+M1609,Kemboi Waweru,Nakuru
+M1610,Njeri Nduta,Kakamega
+M1611,Mutua Awuor,Nairobi CBD
+M1612,Wairimu Awuor,Nakuru
+M1613,Kimani Ouma,Kakamega
+M1614,Wangari Mutiso,Eldoret
+M1615,Wambui Okoth,Kisii
+M1616,Kipchoge Ouma,Mombasa
+M1617,Kimani Odhiambo,Nairobi CBD
+M1618,Kariuki Abdi,Kakamega
+M1619,Kiptoo Githinji,Nyeri
+M1620,Achieng Otieno,Nairobi CBD
+M1621,Njeri Abdi,Mombasa
+M1622,Kibet Simiyu,Meru
+M1623,Jeptoo Waweru,Kakamega
+M1624,Wambui Rotich,Machakos
+M1625,Chepkoech Mwikali,Mombasa
+M1626,Imani Mutai,Kitale
+M1627,Maina Kiplagat,Nairobi CBD
+M1628,Kipchoge Kariuki,Nairobi CBD
+M1629,Cheruiyot Wekesa,Nairobi CBD
+M1630,Moraa Bett,Nakuru
+M1631,Moraa Cheruiyot,Kisumu
+M1632,Mutua Ndambuki,Nakuru
+M1633,Nekesa Langat,Mombasa
+M1634,Akinyi Korir,Nairobi CBD
+M1635,Hassan Kilonzo,Thika
+M1636,Nekesa Waweru,Machakos
+M1637,Kemboi Anyango,Mombasa
+M1638,Omondi Mwangi,Machakos
+M1639,Maina Kioko,Nairobi CBD
+M1640,Jeptoo Awuor,Mombasa
+M1641,Chepkoech Wanjiru,Nakuru
+M1642,Zawadi Awuor,Kitale
+M1643,Onyango Ali,Thika
+M1644,Nafula Muriuki,Kisii
+M1645,Kiptoo Awuor,Nakuru
+M1646,Njeri Ali,Thika
+M1647,Achieng Odhiambo,Eldoret
+M1648,Zawadi Omondi,Nairobi CBD
+M1649,Wafula Kamau,Nairobi CBD
+M1650,Jeptoo Owino,Mombasa
+M1651,Otieno Rotich,Nairobi CBD
+M1652,Wambui Kiplagat,Eldoret
+M1653,Wekesa Maweu,Nairobi CBD
+M1654,Adhiambo Odhiambo,Mombasa
+M1655,Omondi Kiplagat,Nakuru
+M1656,Mutua Nyaga,Mombasa
+M1657,Kibet Odhiambo,Machakos
+M1658,Wafula Githinji,Nairobi CBD
+M1659,Wanjiku Langat,Meru
+M1660,Akinyi Owino,Eldoret
+M1661,Mutua Wanjiru,Nakuru
+M1662,Amina Kerubo,Mombasa
+M1663,Auma Nasimiyu,Mombasa
+M1664,Mwende Githinji,Machakos
+M1665,Ochieng Tanui,Nakuru
+M1666,Chepkoech Njuguna,Nairobi CBD
+M1667,Hassan Korir,Nairobi CBD
+M1668,Nyambura Abdi,Nakuru
+M1669,Kariuki Kiplagat,Kisii
+M1670,Fatuma Ndung'u,Thika
+M1671,Naliaka Owino,Kisii
+M1672,Baraka Nasimiyu,Thika
+M1673,Cheruiyot Nasimiyu,Eldoret
+M1674,Kamau Okoth,Mombasa
+M1675,Juma Abdi,Machakos
+M1676,Onyango Mbugua,Meru
+M1677,Chebet Rotich,Nyeri
+M1678,Achieng Mutuku,Eldoret
+M1679,Odhiambo Kilonzo,Machakos
+M1680,Kamau Ouma,Kisii
+M1681,Mwende Okoth,Mombasa
+M1682,Gathogo Cheruiyot,Thika
+M1683,Onyango Macharia,Nairobi CBD
+M1684,Kariuki Kimutai,Machakos
+M1685,Jeptoo Maweu,Nyeri
+M1686,Nyambura Ndambuki,Thika
+M1687,Kemboi Abdi,Nakuru
+M1688,Naliaka Ouma,Nairobi CBD
+M1689,Moraa Nduta,Thika
+M1690,Akinyi Omondi,Kisii
+M1691,Zawadi Kamau,Machakos
+M1692,Amina Ochieng,Eldoret
+M1693,Maina Macharia,Thika
+M1694,Kimani Kariuki,Kisumu
+M1695,Naliaka Kimutai,Nyeri
+M1696,Karanja Otieno,Nakuru
+M1697,Ochieng Gitau,Mombasa
+M1698,Kipchoge Kilonzo,Nairobi CBD
+M1699,Wekesa Mutuku,Nairobi CBD
+M1700,Wairimu Kimutai,Nyeri
+M1701,Omondi Kimutai,Nakuru
+M1702,Amina Rotich,Eldoret
+M1703,Kiprono Tanui,Mombasa
+M1704,Muthoni Mwikali,Nairobi CBD
+M1705,Amina Njuguna,Nairobi CBD
+M1706,Otieno Ochieng,Nyeri
+M1707,Moraa Ndambuki,Eldoret
+M1708,Nafula Simiyu,Nairobi CBD
+M1709,Kibet Kimutai,Nakuru
+M1710,Karanja Mbugua,Nairobi CBD
+M1711,Baraka Gitau,Kisumu
+M1712,Mutua Waweru,Eldoret
+M1713,Fatuma Otieno,Nairobi CBD
+M1714,Imani Awuor,Kitale
+M1715,Adhiambo Okoth,Nakuru
+M1716,Njeri Simiyu,Nairobi CBD
+M1717,Mwende Anyango,Mombasa
+M1718,Chepkoech Owino,Nakuru
+M1719,Wanjiku Kioko,Eldoret
+M1720,Gathogo Mutuku,Kitale
+M1721,Maina Kilonzo,Nairobi CBD
+M1722,Kemboi Langat,Nyeri
+M1723,Auma Wekesa,Nairobi CBD
+M1724,Onyango Anyango,Nairobi CBD
+M1725,Maina Bett,Nairobi CBD
+M1726,Adhiambo Wekesa,Nairobi CBD
+M1727,Adhiambo Nyaga,Kisii
+M1728,Achieng Muriuki,Nairobi CBD
+M1729,Wafula Macharia,Kisumu
+M1730,Atieno Waweru,Nyeri
+M1731,Juma Wekesa,Machakos
+M1732,Achieng Korir,Nairobi CBD
+M1733,Chebet Kioko,Mombasa
+M1734,Baraka Macharia,Eldoret
+M1735,Nafula Kamau,Kisumu
+M1736,Mwende Kiplagat,Mombasa
+M1737,Wangari Mutai,Thika
+M1738,Njoroge Kamau,Mombasa
+M1739,Hassan Ndung'u,Mombasa
+M1740,Imani Kilonzo,Kisumu
+M1741,Ochieng Otieno,Nairobi CBD
+M1742,Nekesa Ndambuki,Kakamega
+M1743,Atieno Muriuki,Thika
+M1744,Juma Waweru,Machakos
+M1745,Kiptoo Kilonzo,Eldoret
+M1746,Fatuma Ndambuki,Machakos
+M1747,Odhiambo Mutai,Nairobi CBD
+M1748,Wafula Korir,Mombasa
+M1749,Jeptoo Korir,Kisumu
+M1750,Moraa Wanjiru,Nairobi CBD
+M1751,Kimani Abdi,Kisumu
+M1752,Mutua Mwangi,Nairobi CBD
+M1753,Otieno Bett,Nairobi CBD
+M1754,Wambui Mohamed,Mombasa
+M1755,Omondi Mohamed,Kisii
+M1756,Auma Maweu,Meru
+M1757,Karanja Owino,Thika
+M1758,Wekesa Musyoka,Kitale
+M1759,Omondi Wanjiru,Thika
+M1760,Kimani Kerubo,Nairobi CBD
+M1761,Moraa Macharia,Nairobi CBD
+M1762,Achieng Omondi,Machakos
+M1763,Mutua Kerubo,Nairobi CBD
+M1764,Mutua Cheruiyot,Nyeri
+M1765,Kipchoge Kamau,Nairobi CBD
+M1766,Chepkoech Langat,Kisii
+M1767,Nafula Owino,Kisii
+M1768,Nyambura Owino,Nairobi CBD
+M1769,Akinyi Kamau,Nairobi CBD
+M1770,Juma Anyango,Kakamega
+M1771,Wafula Kioko,Nyeri
+M1772,Fatuma Musyoka,Nakuru
+M1773,Baraka Bett,Thika
+M1774,Naliaka Mutuku,Mombasa
+M1775,Kiprono Kiprop,Kitale
+M1776,Amina Musyoka,Nairobi CBD
+M1777,Atieno Kimutai,Kisumu
+M1778,Chepkoech Maweu,Nairobi CBD
+M1779,Imani Ndung'u,Nakuru
+M1780,Mwangi Mutai,Nairobi CBD
+M1781,Gathogo Kariuki,Mombasa
+M1782,Kipchoge Okoth,Nyeri
+M1783,Zawadi Mutuku,Kitale
+M1784,Wangari Okoth,Mombasa
+M1785,Nekesa Mutiso,Machakos
+M1786,Wekesa Mbugua,Nairobi CBD
+M1787,Atieno Anyango,Eldoret
+M1788,Wanjiku Ali,Eldoret
+M1789,Atieno Njuguna,Mombasa
+M1790,Akinyi Odhiambo,Eldoret
+M1791,Baraka Okoth,Kisii
+M1792,Nafula Nasimiyu,Kisumu
+M1793,Ochieng Maweu,Nakuru
+M1794,Jeptoo Kerubo,Meru
+M1795,Achieng Macharia,Mombasa
+M1796,Ochieng Musyoka,Mombasa
+M1797,Mwende Kiprop,Thika
+M1798,Mwangi Githinji,Mombasa
+M1799,Moraa Gitau,Nakuru
+M1800,Ochieng Sang,Machakos
+M1801,Akinyi Otieno,Mombasa
+M1802,Njoroge Wanjiru,Nairobi CBD
+M1803,Achieng Mohamed,Nairobi CBD
+M1804,Onyango Mutuku,Eldoret
+M1805,Jeptoo Mwikali,Nakuru
+M1806,Kariuki Ndambuki,Nyeri
+M1807,Karanja Kilonzo,Eldoret
+M1808,Odhiambo Simiyu,Meru
+M1809,Maina Rotich,Kitale
+M1810,Odhiambo Cheruiyot,Nairobi CBD
+M1811,Barasa Waweru,Nairobi CBD
+M1812,Nyambura Omondi,Nakuru
+M1813,Naliaka Kiprop,Meru
+M1814,Wafula Ochieng,Meru
+M1815,Kimani Owino,Thika
+M1816,Hassan Tanui,Nairobi CBD
+M1817,Otieno Ouma,Thika
+M1818,Mwangi Ndung'u,Mombasa
+M1819,Barasa Korir,Nakuru
+M1820,Kimani Barasa,Thika
+M1821,Chebet Kariuki,Eldoret
+M1822,Kibet Korir,Meru
+M1823,Nafula Sang,Mombasa
+M1824,Njoroge Anyango,Machakos
+M1825,Gathogo Kiplagat,Meru
+M1826,Gathogo Rotich,Nakuru
+M1827,Omondi Kilonzo,Nakuru
+M1828,Mutua Langat,Kisii
+M1829,Wekesa Kerubo,Eldoret
+M1830,Otieno Kamau,Nairobi CBD
+M1831,Juma Cheruiyot,Nairobi CBD
+M1832,Nafula Wekesa,Thika
+M1833,Achieng Sang,Nakuru
+M1834,Auma Odhiambo,Kisii
+M1835,Maina Awuor,Thika
+M1836,Cheruiyot Wanjiru,Nakuru
+M1837,Wanjiku Njuguna,Nakuru
+M1838,Muthoni Mutai,Eldoret
+M1839,Wambui Gitau,Kisumu
+M1840,Baraka Tanui,Nyeri
+M1841,Karanja Langat,Nyeri
+M1842,Naliaka Odhiambo,Nyeri
+M1843,Achieng Mbugua,Nairobi CBD
+M1844,Naliaka Njuguna,Kisumu
+M1845,Achieng Mwangi,Nairobi CBD
+M1846,Onyango Nasimiyu,Eldoret
+M1847,Chepkoech Kioko,Nairobi CBD
+M1848,Amina Kamau,Machakos
+M1849,Odhiambo Gitau,Machakos
+M1850,Kibet Waweru,Nairobi CBD
+M1851,Wanjiku Awuor,Kisumu
+M1852,Imani Wanjiru,Meru
+M1853,Nyambura Ndung'u,Thika
+M1854,Karanja Macharia,Eldoret
+M1855,Kipchoge Bett,Machakos
+M1856,Maina Okoth,Nakuru
+M1857,Wekesa Mwikali,Kisumu
+M1858,Hassan Bett,Thika
+M1859,Chebet Ndung'u,Nakuru
+M1860,Muthoni Kariuki,Mombasa
+M1861,Nafula Ali,Eldoret
+M1862,Kariuki Nyaga,Machakos
+M1863,Wangari Wanjiru,Nairobi CBD
+M1864,Kipchoge Odhiambo,Nairobi CBD
+M1865,Moraa Barasa,Nairobi CBD
+M1866,Nyambura Macharia,Nakuru
+M1867,Ochieng Wanjiru,Machakos
+M1868,Kimani Okoth,Nairobi CBD
+M1869,Amina Mutai,Mombasa
+M1870,Moraa Kimutai,Nairobi CBD
+M1871,Amina Tanui,Thika
+M1872,Kiptoo Bett,Nakuru
+M1873,Juma Langat,Nakuru
+M1874,Otieno Maweu,Mombasa
+M1875,Kibet Mwikali,Kisumu
+M1876,Hassan Omondi,Mombasa
+M1877,Moraa Kiplagat,Kisii
+M1878,Atieno Kilonzo,Kisumu
+M1879,Adhiambo Mwangi,Nakuru
+M1880,Kibet Langat,Eldoret
+M1881,Chebet Wekesa,Thika
+M1882,Njeri Rotich,Nakuru
+M1883,Kemboi Okoth,Kisumu
+M1884,Imani Kiplagat,Nairobi CBD
+M1885,Kiprono Sang,Eldoret
+M1886,Cheruiyot Langat,Kisii
+M1887,Kiptoo Barasa,Nakuru
+M1888,Wangari Bett,Nakuru
+M1889,Nafula Kimutai,Thika
+M1890,Kiptoo Nyaga,Thika
+M1891,Naliaka Mwangi,Meru
+M1892,Akinyi Ouma,Meru
+M1893,Njeri Ndambuki,Kisii
+M1894,Wafula Awuor,Kisumu
+M1895,Jeptoo Anyango,Nyeri
+M1896,Hassan Cheruiyot,Kitale
+M1897,Nekesa Musyoka,Kisii
+M1898,Wairimu Wekesa,Nakuru
+M1899,Fatuma Sang,Meru
+M1900,Hassan Kiprop,Nakuru
+M1901,Wafula Bett,Eldoret
+M1902,Nekesa Ali,Kisii
+M1903,Kemboi Githinji,Eldoret
+M1904,Chepkoech Nduta,Thika
+M1905,Zawadi Ndung'u,Machakos
+M1906,Kemboi Njuguna,Kisumu
+M1907,Kiprono Otieno,Mombasa
+M1908,Ochieng Kimutai,Nakuru
+M1909,Muthoni Mutiso,Meru
+M1910,Kemboi Bett,Mombasa
+M1911,Nekesa Omondi,Kitale
+M1912,Hassan Kariuki,Mombasa
+M1913,Kiptoo Cheruiyot,Thika
+M1914,Kariuki Barasa,Thika
+M1915,Barasa Mohamed,Mombasa
+M1916,Mutua Kamau,Kisumu
+M1917,Amina Sang,Nairobi CBD
+M1918,Kibet Bett,Meru
+M1919,Barasa Musyoka,Kitale
+M1920,Moraa Nyaga,Nyeri
+M1921,Kimani Korir,Nairobi CBD
+M1922,Onyango Wekesa,Nairobi CBD
+M1923,Wangari Kimutai,Nairobi CBD
+M1924,Odhiambo Kerubo,Eldoret
+M1925,Adhiambo Muriuki,Thika
+M1926,Jeptoo Musyoka,Thika
+M1927,Nyambura Cheruiyot,Kitale
+M1928,Chebet Otieno,Nairobi CBD
+M1929,Omondi Mutai,Mombasa
+M1930,Cheruiyot Kimutai,Kisii
+M1931,Ochieng Rotich,Eldoret
+M1932,Mutua Gitau,Mombasa
+M1933,Kipchoge Barasa,Meru
+M1934,Amina Ali,Nakuru
+M1935,Kiptoo Mutuku,Kisumu
+M1936,Amina Okoth,Nairobi CBD
+M1937,Wangari Nasimiyu,Thika
+M1938,Ochieng Wekesa,Mombasa
+M1939,Nyambura Otieno,Nyeri
+M1940,Nafula Maweu,Nairobi CBD
+M1941,Chebet Kiprop,Nairobi CBD
+M1942,Juma Kioko,Eldoret
+M1943,Kemboi Muriuki,Nyeri
+M1944,Chebet Langat,Nairobi CBD
+M1945,Otieno Mohamed,Kitale
+M1946,Otieno Omondi,Eldoret
+M1947,Naliaka Mutai,Eldoret
+M1948,Onyango Kimutai,Nairobi CBD
+M1949,Odhiambo Ochieng,Nyeri
+M1950,Otieno Kimutai,Nakuru
+M1951,Gathogo Kioko,Nairobi CBD
+M1952,Otieno Mutiso,Kisumu
+M1953,Kiprono Kioko,Mombasa
+M1954,Mwangi Anyango,Meru
+M1955,Juma Kerubo,Mombasa
+M1956,Ochieng Omondi,Kisumu
+M1957,Nekesa Bett,Nairobi CBD
+M1958,Atieno Tanui,Nairobi CBD
+M1959,Otieno Mutuku,Kakamega
+M1960,Achieng Tanui,Kisumu
+M1961,Mutua Mutai,Kakamega
+M1962,Kamau Tanui,Nairobi CBD
+M1963,Atieno Sang,Nairobi CBD
+M1964,Maina Abdi,Eldoret
+M1965,Muthoni Owino,Kisii
+M1966,Achieng Kariuki,Eldoret
+M1967,Jeptoo Kilonzo,Eldoret
+M1968,Akinyi Nyaga,Mombasa
+M1969,Gathogo Mbugua,Nairobi CBD
+M1970,Muthoni Odhiambo,Eldoret
+M1971,Jeptoo Githinji,Mombasa
+M1972,Nafula Korir,Mombasa
+M1973,Chebet Barasa,Nyeri
+M1974,Fatuma Ouma,Eldoret
+M1975,Jeptoo Macharia,Nyeri
+M1976,Maina Omondi,Nairobi CBD
+M1977,Cheruiyot Kiplagat,Nairobi CBD
+M1978,Wairimu Mutai,Mombasa
+M1979,Nafula Gitau,Nairobi CBD
+M1980,Achieng Ndung'u,Kisumu
+M1981,Kemboi Kamau,Eldoret
+M1982,Baraka Kiplagat,Thika
+M1983,Njeri Kerubo,Kisumu
+M1984,Barasa Awuor,Nakuru
+M1985,Hassan Awuor,Mombasa
+M1986,Fatuma Omondi,Eldoret
+M1987,Odhiambo Tanui,Mombasa
+M1988,Wambui Kiprop,Mombasa
+M1989,Gathogo Korir,Meru
+M1990,Atieno Rotich,Kisii
+M1991,Mutua Mwikali,Eldoret
+M1992,Omondi Kioko,Kisii
+M1993,Nekesa Njuguna,Machakos
+M1994,Kimani Ndambuki,Eldoret
+M1995,Mwangi Ouma,Mombasa
+M1996,Baraka Odhiambo,Nakuru
+M1997,Naliaka Tanui,Thika
+M1998,Akinyi Kariuki,Kitale
+M1999,Cheruiyot Korir,Kitale
+M2000,Otieno Nyaga,Machakos
